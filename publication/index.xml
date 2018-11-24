@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Mark van der Wilk</title>
+    <link>https://markvdw.github.io/publication/</link>
+    <description>Recent content in Publications on Mark van der Wilk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://markvdw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Explicit Rates of Convergence for Sparse Variational Inference in Gaussian Process Regression</title>
+      <link>https://markvdw.github.io/publication/explicit-rates/</link>
+      <pubDate>Fri, 23 Nov 2018 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/explicit-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Factorised Variational Inference in Dynamical Systems</title>
+      <link>https://markvdw.github.io/publication/non-factorised-gpssm/</link>
+      <pubDate>Fri, 23 Nov 2018 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/non-factorised-gpssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Invariances using the Marginal Likelihood</title>
+      <link>https://markvdw.github.io/publication/invariant-gp/</link>
+      <pubDate>Thu, 16 Aug 2018 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/invariant-gp/</guid>
+      <description> Lorem ipsum dolor </description>
+    </item>
+    
+    <item>
+      <title>Closed-form Inference and Prediction in Gaussian Process State-Space Models</title>
+      <link>https://markvdw.github.io/publication/closed-form-gpssm/</link>
+      <pubDate>Fri, 01 Dec 2017 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/closed-form-gpssm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/convolutional-gp/</link>
+      <pubDate>Wed, 06 Sep 2017 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/convolutional-gp/</guid>
+      <description> Lorem ipsum dolor </description>
+    </item>
+    
+    <item>
+      <title>Understanding Probabilistic Sparse Gaussian Process Approximations</title>
+      <link>https://markvdw.github.io/publication/understanding/</link>
+      <pubDate>Sun, 01 Jan 2017 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPflow: A Gaussian Process Library using TensorFlow</title>
+      <link>https://markvdw.github.io/publication/gpflow/</link>
+      <pubDate>Thu, 27 Oct 2016 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/gpflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Efficient Policy Search using PILCO and Directed-Exploration</title>
+      <link>https://markvdw.github.io/publication/data-efficient-exploration/</link>
+      <pubDate>Fri, 24 Jun 2016 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/data-efficient-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models</title>
+      <link>https://markvdw.github.io/publication/parallel/</link>
+      <pubDate>Mon, 29 Sep 2014 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/parallel/</guid>
+      <description>&amp;ast; Equal contribution</description>
+    </item>
+    
+    <item>
+      <title>Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models - a Gentle Tutorial</title>
+      <link>https://markvdw.github.io/publication/gentle-tutorial/</link>
+      <pubDate>Mon, 29 Sep 2014 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/gentle-tutorial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
