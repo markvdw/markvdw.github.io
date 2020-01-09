@@ -4,8 +4,56 @@
     
     <url>
     
+      <loc>https://markvdw.github.io/publication/2019-translation-insensitivity/</loc>
+      <lastmod>2020-01-01T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://markvdw.github.io/publication/bayesian-layers/</loc>
+      <lastmod>2019-12-05T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://markvdw.github.io/publication/2019-scalable-bayesian-dynamic-covariance/</loc>
+      <lastmod>2019-12-05T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://markvdw.github.io/publication/2019-variational-gp-without/</loc>
+      <lastmod>2019-12-05T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://markvdw.github.io/publication/2019-overcoming-mean-field/</loc>
+      <lastmod>2019-07-12T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://markvdw.github.io/publication/explicit-rates/</loc>
-      <lastmod>2018-11-23T18:57:18+00:00</lastmod>
+      <lastmod>2019-07-12T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://markvdw.github.io/post/neurips2018/</loc>
+      <lastmod>2018-12-07T16:12:33-05:00</lastmod>
     </url>
     
   
@@ -44,14 +92,6 @@
     
     <url>
     
-      <loc>https://markvdw.github.io/publication/understanding/</loc>
-      <lastmod>2017-01-01T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://markvdw.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -76,6 +116,14 @@
     
     <url>
     
+      <loc>https://markvdw.github.io/publication/understanding/</loc>
+      <lastmod>2016-12-01T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://markvdw.github.io/publication/gpflow/</loc>
       <lastmod>2016-10-27T18:57:18+00:00</lastmod>
     </url>
@@ -92,6 +140,14 @@
     
     <url>
     
+      <loc>https://markvdw.github.io/post/getting-started/</loc>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://markvdw.github.io/publication/parallel/</loc>
       <lastmod>2014-09-29T18:57:18+00:00</lastmod>
     </url>
@@ -102,6 +158,15 @@
     
       <loc>https://markvdw.github.io/publication/gentle-tutorial/</loc>
       <lastmod>2014-09-29T18:57:18+00:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://markvdw.github.io/tags/academic/</loc>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -134,6 +199,7 @@
     <url>
     
       <loc>https://markvdw.github.io/tags/</loc>
+      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

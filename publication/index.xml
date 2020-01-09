@@ -13,9 +13,54 @@
     
     
     <item>
-      <title>Explicit Rates of Convergence for Sparse Variational Inference in Gaussian Process Regression</title>
+      <title>Translation Insensitivity for Deep Convolutional Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/2019-translation-insensitivity/</link>
+      <pubDate>Wed, 01 Jan 2020 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/2019-translation-insensitivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Layers: A Module for Neural Network Uncertainty</title>
+      <link>https://markvdw.github.io/publication/bayesian-layers/</link>
+      <pubDate>Thu, 05 Dec 2019 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/bayesian-layers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Bayesian dynamic covariance modeling with variational Wishart and inverse Wishart processes</title>
+      <link>https://markvdw.github.io/publication/2019-scalable-bayesian-dynamic-covariance/</link>
+      <pubDate>Thu, 05 Dec 2019 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/2019-scalable-bayesian-dynamic-covariance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Gaussian Process Models without Matrix Inverses</title>
+      <link>https://markvdw.github.io/publication/2019-variational-gp-without/</link>
+      <pubDate>Thu, 05 Dec 2019 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/2019-variational-gp-without/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models</title>
+      <link>https://markvdw.github.io/publication/2019-overcoming-mean-field/</link>
+      <pubDate>Fri, 12 Jul 2019 18:57:18 +0000</pubDate>
+      
+      <guid>https://markvdw.github.io/publication/2019-overcoming-mean-field/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rates of Convergence for Sparse Variational Inference in Gaussian Process Regression</title>
       <link>https://markvdw.github.io/publication/explicit-rates/</link>
-      <pubDate>Fri, 23 Nov 2018 18:57:18 +0000</pubDate>
+      <pubDate>Fri, 12 Jul 2019 18:57:18 +0000</pubDate>
       
       <guid>https://markvdw.github.io/publication/explicit-rates/</guid>
       <description></description>
@@ -60,7 +105,7 @@
     <item>
       <title>Understanding Probabilistic Sparse Gaussian Process Approximations</title>
       <link>https://markvdw.github.io/publication/understanding/</link>
-      <pubDate>Sun, 01 Jan 2017 18:57:18 +0000</pubDate>
+      <pubDate>Thu, 01 Dec 2016 18:57:18 +0000</pubDate>
       
       <guid>https://markvdw.github.io/publication/understanding/</guid>
       <description></description>
