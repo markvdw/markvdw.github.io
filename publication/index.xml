@@ -81,7 +81,7 @@
       <pubDate>Thu, 16 Aug 2018 18:57:18 +0000</pubDate>
       
       <guid>https://markvdw.github.io/publication/invariant-gp/</guid>
-      <description> Lorem ipsum dolor </description>
+      <description>Related material Talks  I will give at the Functional Inference and Machine Intelligence workshop on the more technical aspects of the work. I will delve into using kernels that do not have a closed-from expression, and can only be approximated using unbiased estimators. I gave a talk at the Generative Models and Uncertainty Quantification workshop on how learning invariances relates to data augmentation, and how this generalisation should relate to predictive uncertainties.</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@
       <pubDate>Wed, 06 Sep 2017 18:57:18 +0000</pubDate>
       
       <guid>https://markvdw.github.io/publication/convolutional-gp/</guid>
-      <description> Lorem ipsum dolor </description>
+      <description></description>
     </item>
     
     <item>
