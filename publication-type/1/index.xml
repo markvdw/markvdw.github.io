@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Mark van der Wilk</title>
+    <link>https://markvdw.github.io/publication-type/1/</link>
+      <atom:link href="https://markvdw.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://markvdw.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Tighter Bounds on the Log Marginal Likelihood of Gaussian Process Regression Using Conjugate Gradients</title>
+      <link>https://markvdw.github.io/publication/artemevburt-2021-cglb/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/artemevburt-2021-cglb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlated Weights in Infinite Limits of Deep Convolutional Neural Networks</title>
+      <link>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Variational Inference in Function-Space</title>
+      <link>https://markvdw.github.io/publication/burt-2020-understanding/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/burt-2020-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Image Classification with Deep Convolutional Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Bayesian Perspective on Training Speed and Model Selection</title>
+      <link>https://markvdw.github.io/publication/lyle-2020-trainingspeed/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/lyle-2020-trainingspeed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Segmentation Networks: Modelling Spatially Correlated Aleatoric Uncertainty</title>
+      <link>https://markvdw.github.io/publication/monteiro-2020-correlated/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/monteiro-2020-correlated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Gaussian Process Models without Matrix Inverses</title>
+      <link>https://markvdw.github.io/publication/vdw-2020-inv/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2020-inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models</title>
+      <link>https://markvdw.github.io/publication/ialongo-2019-overcoming/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ialongo-2019-overcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rates of Convergence for Sparse Variational Gaussian Process Regression</title>
+      <link>https://markvdw.github.io/publication/burt-2019-rates/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/burt-2019-rates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Layers: A Module for Neural Network Uncertainty</title>
+      <link>https://markvdw.github.io/publication/tran-2019-layers/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/tran-2019-layers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable Bayesian dynamic covariance modeling with variational Wishart and inverse Wishart processes</title>
+      <link>https://markvdw.github.io/publication/heaukulani-2019-wishart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/heaukulani-2019-wishart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concrete problems for autonomous vehicle safety: advantages of Bayesian deep learning</title>
+      <link>https://markvdw.github.io/publication/mcallister-2017-concrete/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/mcallister-2017-concrete/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

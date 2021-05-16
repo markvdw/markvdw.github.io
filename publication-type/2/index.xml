@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Mark van der Wilk</title>
+    <link>https://markvdw.github.io/publication-type/2/</link>
+      <atom:link href="https://markvdw.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://markvdw.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Convergence of Sparse Variational Inference in Gaussian Processes Regression</title>
+      <link>https://markvdw.github.io/publication/burt-2020-convergence/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/burt-2020-convergence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPflow: A Gaussian Process Library using TensorFlow</title>
+      <link>https://markvdw.github.io/publication/gpflow/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/gpflow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

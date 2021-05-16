@@ -1,207 +1,190 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/2019-translation-insensitivity/</loc>
-      <lastmod>2020-01-01T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/bayesian-layers/</loc>
-      <lastmod>2019-12-05T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/2019-scalable-bayesian-dynamic-covariance/</loc>
-      <lastmod>2019-12-05T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/2019-variational-gp-without/</loc>
-      <lastmod>2019-12-05T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/2019-overcoming-mean-field/</loc>
-      <lastmod>2019-07-12T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/explicit-rates/</loc>
-      <lastmod>2019-07-12T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/post/neurips2018/</loc>
-      <lastmod>2018-12-07T16:12:33-05:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/non-factorised-gpssm/</loc>
-      <lastmod>2018-11-23T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/invariant-gp/</loc>
-      <lastmod>2018-08-16T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/closed-form-gpssm/</loc>
-      <lastmod>2017-12-01T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/convolutional-gp/</loc>
-      <lastmod>2017-09-06T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/understanding/</loc>
-      <lastmod>2016-12-01T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/gpflow/</loc>
-      <lastmod>2016-10-27T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/data-efficient-exploration/</loc>
-      <lastmod>2016-06-24T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/parallel/</loc>
-      <lastmod>2014-09-29T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication/gentle-tutorial/</loc>
-      <lastmod>2014-09-29T18:57:18+00:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://markvdw.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://markvdw.github.io/publication-type/1/</loc>
+    <lastmod>2021-05-13T10:09:00+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/</loc>
+    <lastmod>2021-05-13T11:16:07+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication_types/</loc>
+    <lastmod>2021-05-13T11:16:07+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/</loc>
+    <lastmod>2021-05-13T11:16:07+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/artemevburt-2021-cglb/</loc>
+    <lastmod>2021-05-13T10:09:00+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/how-accurate-gaussian-processes-can-help-deep-learning/</loc>
+    <lastmod>2021-04-30T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/event/</loc>
+    <lastmod>2021-04-30T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/project/reliable-gp/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/project/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/</loc>
+    <lastmod>2021-02-24T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication-type/0/</loc>
+    <lastmod>2021-05-13T11:16:07+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/fortuin-2021-priors/</loc>
+    <lastmod>2021-05-13T10:08:59+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</loc>
+    <lastmod>2021-05-13T10:08:59+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/dutordoir-2021-relu/</loc>
+    <lastmod>2021-05-13T11:16:07+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</loc>
+    <lastmod>2021-05-13T10:08:59+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/ober-2021-dkl/</loc>
+    <lastmod>2021-05-13T10:08:59+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/burt-2020-understanding/</loc>
+    <lastmod>2021-05-13T10:08:57+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/</loc>
+    <lastmod>2020-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</loc>
+    <lastmod>2021-05-13T10:08:57+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/</loc>
+    <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication-type/2/</loc>
+    <lastmod>2021-05-13T10:08:58+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/lyle-2020-trainingspeed/</loc>
+    <lastmod>2021-05-13T10:08:59+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/vdw-2020-framework/</loc>
+    <lastmod>2021-05-13T10:08:57+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/smith-2020-capsules/</loc>
+    <lastmod>2021-05-13T10:08:58+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/burt-2020-convergence/</loc>
+    <lastmod>2021-05-13T10:08:58+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/sedgwick-2020-design/</loc>
+    <lastmod>2021-05-13T10:08:57+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/lyle-2020-benefits/</loc>
+    <lastmod>2021-05-13T10:08:57+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/ru-2020-speed/</loc>
+    <lastmod>2021-05-13T10:08:58+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/monteiro-2020-correlated/</loc>
+    <lastmod>2021-05-13T10:08:58+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/vdw-2020-inv/</loc>
+    <lastmod>2021-05-13T10:08:56+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/burt-2020-vof/</loc>
+    <lastmod>2021-05-13T10:08:58+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/sampling-for-data-augmentation-generative-models-vs-invariances/</loc>
+    <lastmod>2019-10-10T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/ialongo-2019-overcoming/</loc>
+    <lastmod>2021-05-13T10:08:56+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/burt-2019-rates/</loc>
+    <lastmod>2021-05-13T10:08:56+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication-type/7/</loc>
+    <lastmod>2021-05-13T10:08:56+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/tran-2019-layers/</loc>
+    <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/heaukulani-2019-wishart/</loc>
+    <lastmod>2021-05-13T10:08:56+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/vdw-2019-sparse/</loc>
+    <lastmod>2021-05-13T10:08:56+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication-type/6/</loc>
+    <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/vdw-2018-invgp/</loc>
+    <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/ialongo-2017-closed/</loc>
+    <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/mcallister-2017-concrete/</loc>
+    <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/vdw-2017-convgp/</loc>
+    <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/gpflow/</loc>
+    <lastmod>2021-05-13T10:08:54+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/project/example/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/mcallister-2016-exploration/</loc>
+    <lastmod>2021-05-13T10:08:54+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/bauer-2016-understanding/</loc>
+    <lastmod>2021-05-13T10:08:54+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/gal-2014-parallel/</loc>
+    <lastmod>2021-05-13T10:08:53+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/vdw-2014-wplvm/</loc>
+    <lastmod>2021-05-13T10:08:54+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/publication/galvdw-2014-tutorial/</loc>
+    <lastmod>2021-05-13T10:08:54+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/admin/</loc>
+  </url>
 </urlset>

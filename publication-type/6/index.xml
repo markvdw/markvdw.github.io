@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Mark van der Wilk</title>
+    <link>https://markvdw.github.io/publication-type/6/</link>
+      <atom:link href="https://markvdw.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>6</title>
+      <link>https://markvdw.github.io/publication-type/6/</link>
+    </image>
+    
+    <item>
+      <title>Learning Invariances using the Marginal Likelihood</title>
+      <link>https://markvdw.github.io/publication/vdw-2018-invgp/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2018-invgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Closed-form Inference and Prediction in Gaussian Process State-Space Models</title>
+      <link>https://markvdw.github.io/publication/ialongo-2017-closed/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ialongo-2017-closed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/vdw-2017-convgp/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2017-convgp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-Efficient Policy Search using PILCO and Directed-Exploration</title>
+      <link>https://markvdw.github.io/publication/mcallister-2016-exploration/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/mcallister-2016-exploration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding Probabilistic Sparse Gaussian Process Approximations</title>
+      <link>https://markvdw.github.io/publication/bauer-2016-understanding/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/bauer-2016-understanding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models</title>
+      <link>https://markvdw.github.io/publication/gal-2014-parallel/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/gal-2014-parallel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Inference for Latent Variable Modelling of Correlation Structure</title>
+      <link>https://markvdw.github.io/publication/vdw-2014-wplvm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2014-wplvm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
