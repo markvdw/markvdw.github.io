@@ -5,12 +5,20 @@
     <link>https://markvdw.github.io/event/</link>
       <atom:link href="https://markvdw.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 30 Apr 2021 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 02 Jun 2021 16:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://markvdw.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Reliable Training of Gaussian Process Approximations</title>
+      <link>https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/</link>
+      <pubDate>Wed, 02 Jun 2021 16:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How Accurate Gaussian Processes can help Deep Learning</title>
