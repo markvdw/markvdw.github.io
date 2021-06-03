@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Various work in getting Bayesian model selection to work in deep learning." />
+  <meta name="description" content="How to select inducing inputs, and how this makes training sparse GPs much better." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/" />
+  <link rel="alternate" hreflang="en-us" href="https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/" />
 
   
 
@@ -277,7 +277,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/" />
+  <link rel="canonical" href="https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/" />
 
   
   
@@ -294,9 +294,9 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Mark van der Wilk" />
-  <meta property="og:url" content="https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/" />
-  <meta property="og:title" content="Bayesian Model Selection in Deep Learning | Mark van der Wilk" />
-  <meta property="og:description" content="Various work in getting Bayesian model selection to work in deep learning." /><meta property="og:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/" />
+  <meta property="og:title" content="Reliable Training of Gaussian Process Approximations | Mark van der Wilk" />
+  <meta property="og:description" content="How to select inducing inputs, and how this makes training sparse GPs much better." /><meta property="og:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -305,7 +305,7 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-02-24T16:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-06-02T16:00:00&#43;00:00">
   
 
   
@@ -324,17 +324,17 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/"
+    "@id": "https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/"
   },
-  "name": "Bayesian Model Selection in Deep Learning",
+  "name": "Reliable Training of Gaussian Process Approximations",
   
   "location": {
     "@type": "Place",
-    "name": "Qualcomm Amsterdam (Online)"
+    "name": "G-Research, London"
   },
   
   
-  "startDate": "2021-02-24T16:00:00Z",
+  "startDate": "2021-06-02T16:00:00Z",
   
   
   "performer": {
@@ -342,7 +342,7 @@
     "name": "Mark van der Wilk"
   },
   
-  "description": "Various work in getting Bayesian model selection to work in deep learning."
+  "description": "How to select inducing inputs, and how this makes training sparse GPs much better."
 }
 </script>
 
@@ -356,11 +356,11 @@
 
 
 
-  <title>Bayesian Model Selection in Deep Learning | Mark van der Wilk</title>
+  <title>Reliable Training of Gaussian Process Approximations | Mark van der Wilk</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="868ce6ea907a2b24a236c545824f8a17" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="8ba08bda373301a5771202484257ca0e" >
 
   
   
@@ -618,7 +618,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Bayesian Model Selection in Deep Learning</h1>
+  <h1>Reliable Training of Gaussian Process Approximations</h1>
 
   
 
@@ -693,41 +693,14 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="/talk-slides/qualcomm-talk.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="/talk-slides/gresearch-talk.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=m1dSrXBEZIQ" target="_blank" rel="noopener">
-  Video
-</a>
 
 
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary btn-page-header" href="/talk-slides/qualcomm-talk-handout.pdf" >
-    
-    Slides (no pause)
-  </a>
 
 
 </div>
@@ -742,7 +715,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">The Bayesian Deep Learning community is widely known for its efforts in bringing uncertainty estimates to deep neural networks. However, Bayesian methods have another key advantage: the ability to adjust inductive biases through model selection. Interestingly, model selection and uncertainty estimation are dual problems in the Bayesian framework. In this talk, I will discuss the current state of model selection in Bayesian deep learning, together with some of my recent work towards this. I will discuss some theoretically grounded successes in Deep Gaussian Processes and in connecting ensembling to Bayesian inference, as well as recent empirical work on Neural Architecture Search. To finish, I would like to speculate on possible other benefits that the Bayesian framework can provide, in particular relating to asynchronous computation, and how this can potentially benefit from new hardware.</p>
+      <p class="pub-abstract">Gaussian processes are the gold standard method for solving regression problems where noise and uncertainty quantification are important. In recent years, high-quality approximations have been developed to reduce their computational cost on large datasets. While the fundamental approximations (e.g. sparse variational or conjugate gradient) have been around for over a decade, applying them is still cumbersome due to the human &ldquo;folk knowledge&rdquo; that is required. In this talk, I will discuss our work on eliminating the need for this cumbersome human intervention. We do this by mathematically analysing the methods, and using the insights gained to provide automated methods for setting parameters. The resulting procedures are more robust, computationally efficient, and avoid heuristic setting of many parameters.</p>
     
 
     <div class="row">
@@ -751,7 +724,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Feb 24, 2021 4:00 PM
+            Jun 2, 2021 4:00 PM
           </div>
         </div>
       </div>
@@ -767,7 +740,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
             
-            Qualcomm Amsterdam Seminar Series
+            G-Research Machine Learning Seminar
             
           </div>
         </div>
@@ -783,7 +756,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Qualcomm Amsterdam (Online)</div>
+          <div class="col-12 col-md-9">G-Research, London</div>
           
         </div>
       </div>
@@ -818,7 +791,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/&amp;text=Bayesian%20Model%20Selection%20in%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/&amp;text=Reliable%20Training%20of%20Gaussian%20Process%20Approximations" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -831,7 +804,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/&amp;t=Bayesian%20Model%20Selection%20in%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/&amp;t=Reliable%20Training%20of%20Gaussian%20Process%20Approximations" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -844,7 +817,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Bayesian%20Model%20Selection%20in%20Deep%20Learning&amp;body=https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Reliable%20Training%20of%20Gaussian%20Process%20Approximations&amp;body=https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -857,7 +830,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/&amp;title=Bayesian%20Model%20Selection%20in%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/&amp;title=Reliable%20Training%20of%20Gaussian%20Process%20Approximations" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -870,7 +843,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Bayesian%20Model%20Selection%20in%20Deep%20Learning%20https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Reliable%20Training%20of%20Gaussian%20Process%20Approximations%20https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -883,7 +856,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://markvdw.github.io/talk/bayesian-model-selection-in-deep-learning/&amp;title=Bayesian%20Model%20Selection%20in%20Deep%20Learning" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/&amp;title=Reliable%20Training%20of%20Gaussian%20Process%20Approximations" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
