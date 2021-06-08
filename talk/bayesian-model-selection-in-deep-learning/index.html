@@ -255,6 +255,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48275004-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-48275004-1', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -305,7 +344,7 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2021-02-24T16:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-12-10T00:00:00&#43;00:00">
   
 
   
@@ -330,11 +369,11 @@
   
   "location": {
     "@type": "Place",
-    "name": "Qualcomm Amsterdam (Online)"
+    "name": "NeurIPS Bayesian Deep Learning meetup (Online)"
   },
   
   
-  "startDate": "2021-02-24T16:00:00Z",
+  "startDate": "2020-12-10T00:00:00Z",
   
   
   "performer": {
@@ -360,7 +399,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="868ce6ea907a2b24a236c545824f8a17" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="327b2bb6b6507c8a134dd5cb354831f1" >
 
   
   
@@ -689,23 +728,7 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="/talk-slides/qualcomm-talk.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
 
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.youtube.com/watch?v=m1dSrXBEZIQ" target="_blank" rel="noopener">
-  Video
-</a>
 
 
 
@@ -720,13 +743,10 @@
   
   
     
-    
-      
-    
   
-  <a class="btn btn-outline-primary btn-page-header" href="/talk-slides/qualcomm-talk-handout.pdf" >
+  <a class="btn btn-outline-primary btn-page-header" href="http://bayesiandeeplearning.org" target="_blank" rel="noopener">
     
-    Slides (no pause)
+    Event
   </a>
 
 
@@ -751,7 +771,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Feb 24, 2021 4:00 PM
+            Dec 10, 2020 12:00 AM
           </div>
         </div>
       </div>
@@ -767,7 +787,7 @@
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
             
-            Qualcomm Amsterdam Seminar Series
+            NeurIPS meetup on Bayesian Deep Learning
             
           </div>
         </div>
@@ -783,7 +803,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">Qualcomm Amsterdam (Online)</div>
+          <div class="col-12 col-md-9">NeurIPS Bayesian Deep Learning meetup (Online)</div>
           
         </div>
       </div>
@@ -1070,6 +1090,42 @@
 
     
     <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.71e713848164e269bc250f377042949d.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
+d5750157f69c120.js"></script>
 
     
     
