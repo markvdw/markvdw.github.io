@@ -124,7 +124,7 @@ abstract = {Excellent variational approximations to Gaussian process posteriors 
 @InProceedings{ialongo2019overcoming,
 title = {Overcoming Mean-Field Approximations in Recurrent {G}aussian Process Models},
 author = {Ialongo, Alessandro Davide and van der Wilk, Mark and Hensman, James and Rasmussen, Carl Edward},
-booktitle = {Proceedings of the 36th International Conference on Machine Learning},
+booktitle = {Proceedings of the 36th International Conference on Machine Learning (ICML)},
 pages = {2931--2940},
 year = {2019},
 editor = {Kamalika Chaudhuri and Ruslan Salakhutdinov},
@@ -193,7 +193,7 @@ url = {https://arxiv.org/abs/2011.10575},
 @InProceedings{dutordoir2020dcgp,
   title = 	 {Bayesian Image Classification with Deep Convolutional Gaussian Processes},
   author =       {Dutordoir, Vincent and van der Wilk, Mark and Artemev, Artem and Hensman, James},
-  booktitle = 	 {Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics},
+  booktitle = 	 {Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics (AISTATS)},
   pages = 	 {1529--1539},
   year = 	 {2020},
   editor = 	 {Chiappa, Silvia and Calandra, Roberto},
@@ -289,14 +289,6 @@ Eprint = {arXiv:2102.06571},
 url = {https://arxiv.org/abs/2102.06571},
 }
 
-@inproceedings{garriga-alonso2021correlated,
-title={Correlated Weights in Infinite Limits of Deep Convolutional Neural Networks},
-author={Adri{\`a} Garriga-Alonso and Mark van der Wilk},
-booktitle={Third Symposium on Advances in Approximate Bayesian Inference},
-year={2021},
-url={https://openreview.net/forum?id=I860dGFud1b}
-}
-
 @misc{dutordoir2021gpflux,
 Author = {Vincent Dutordoir and Hugh Salimbeni and Eric Hambro and John McLeod and Felix Leibfried and Artem Artemev and Mark van der Wilk and James Hensman and Marc P. Deisenroth and ST John},
 Title = {GPflux: A Library for Deep Gaussian Processes},
@@ -305,22 +297,38 @@ Eprint = {arXiv:2104.05674},
 url = {https://arxiv.org/abs/2104.05674},
 }
 
-@misc{ober2021dkl,
-Author = {Sebastian W. Ober and Carl E. Rasmussen and Mark van der Wilk},
-Title = {The Promises and Pitfalls of Deep Kernel Learning},
-Year = {2021},
-Eprint = {arXiv:2102.12108},
-url = {https://arxiv.org/abs/2102.12108},
+@InProceedings{ober2021dkl,
+  title = 	 {The Promises and Pitfalls of Deep Kernel Learning},
+  author =       {Sebastian W. Ober and Carl E. Rasmussen and Mark van der Wilk},
+  booktitle = 	 {Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI)},
+  year = 	 {2021},
+  month =        {Jul},
+  url = {https://arxiv.org/abs/2102.12108},
 }
 
-@inproceedings{artemevburt2021cglb,
-Author = {Artem Artemev and David R. Burt and Mark van der Wilk},
-booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
-Title = {Tighter Bounds on the Log Marginal Likelihood of Gaussian Process Regression Using Conjugate Gradients},
-Year = {2021},
-month = {dec},
-Eprint = {arXiv:2102.08314},
-url = {https://arxiv.org/abs/2102.08314},
+@InProceedings{garriga-alonso2021correlated,
+  title = 	 {Correlated Weights in Infinite Limits of Deep Convolutional Neural Networks},
+  author =       {Adri{\`a} Garriga-Alonso and Mark van der Wilk},
+  booktitle = 	 {Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI)},
+  year = 	 {2021},
+  month =        {Jul},
+  url = {https://www.auai.org/uai2021/pdf/uai2021.752.pdf},
+}
+
+@InProceedings{artemevburt2021cglb,
+  title = 	 {Tighter Bounds on the Log Marginal Likelihood of Gaussian Process Regression Using Conjugate Gradients},
+  author =       {Artemev, Artem and Burt, David R. and van der Wilk, Mark},
+  booktitle = 	 {Proceedings of the 38th International Conference on Machine Learning (ICML)},
+  pages = 	 {362--372},
+  year = 	 {2021},
+  editor = 	 {Meila, Marina and Zhang, Tong},
+  volume = 	 {139},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {Jul},
+  publisher =    {PMLR},
+  pdf = 	 {http://proceedings.mlr.press/v139/artemev21a/artemev21a.pdf},
+  url = 	 {https://proceedings.mlr.press/v139/artemev21a.html},
+  abstract = 	 {We propose a lower bound on the log marginal likelihood of Gaussian process regression models that can be computed without matrix factorisation of the full kernel matrix. We show that approximate maximum likelihood learning of model parameters by maximising our lower bound retains many benefits of the sparse variational approach while reducing the bias introduced into hyperparameter learning. The basis of our bound is a more careful analysis of the log-determinant term appearing in the log marginal likelihood, as well as using the method of conjugate gradients to derive tight lower bounds on the term involving a quadratic form. Our approach is a step forward in unifying methods relying on lower bound maximisation (e.g. variational methods) and iterative approaches based on conjugate gradients for training Gaussian processes. In experiments, we show improved predictive performance with our model for a comparable amount of training time compared to other conjugate gradient based approaches.}
 }
 
 @misc{dutordoir2021relu,
@@ -329,4 +337,24 @@ Title = {Deep Neural Networks as Point Estimates for Deep Gaussian Processes},
 Year = {2021},
 Eprint = {arXiv:2105.04504},
 url = {https://arxiv.org/abs/2105.04504},
+}
+
+@misc{schwoebel2021layer,
+      title={Last Layer Marginal Likelihood for Invariance Learning}, 
+      author={Pola Schwöbel and Martin Jørgensen and Sebastian W. Ober and Mark van der Wilk},
+      year={2021},
+      eprint={2106.07512},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2106.07512}
+}
+
+@misc{nabarro2021data,
+      title={Data augmentation in Bayesian neural networks and the cold posterior effect}, 
+      author={Seth Nabarro and Stoil Ganev and Adrià Garriga-Alonso and Vincent Fortuin and Mark van der Wilk and Laurence Aitchison},
+      year={2021},
+      eprint={2106.05586},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      url={https://arxiv.org/abs/2106.05586}
 }

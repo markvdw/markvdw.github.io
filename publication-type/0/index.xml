@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
+      <link>https://markvdw.github.io/publication/nabarro-2021-data/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/nabarro-2021-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Neural Networks as Point Estimates for Deep Gaussian Processes</title>
       <link>https://markvdw.github.io/publication/dutordoir-2021-relu/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -37,10 +45,10 @@
     </item>
     
     <item>
-      <title>The Promises and Pitfalls of Deep Kernel Learning</title>
-      <link>https://markvdw.github.io/publication/ober-2021-dkl/</link>
+      <title>Last Layer Marginal Likelihood for Invariance Learning</title>
+      <link>https://markvdw.github.io/publication/schwoebel-2021-layer/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ober-2021-dkl/</guid>
+      <guid>https://markvdw.github.io/publication/schwoebel-2021-layer/</guid>
       <description></description>
     </item>
     
