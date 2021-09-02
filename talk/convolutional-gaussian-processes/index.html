@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content="Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function." />
+  <meta name="description" content="When learning mappings from data, knowledge about what modifications to the input leave the output unchanged can strongly improve generalisation. Exploiting these invariances is commonplace in many machine learning models, under the guise of convolutional structure or data augmentation. Choosing which invariances to use, however, is still done with humans in the loop, through trial-and-error and crossvalidation. In this talk, we will discuss how Gaussian processes can be constrained to exhibit invariances, and how this is useful for various applications. We will also show how invariances can be learned with backpropagation using tools from Bayesian model selection." />
 
   
-  <link rel="alternate" hreflang="en-us" href="https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" />
+  <link rel="alternate" hreflang="en-us" href="https://markvdw.github.io/talk/convolutional-gaussian-processes/" />
 
   
 
@@ -316,7 +316,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_32x32_fill_lanczos_center_2.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_180x180_fill_lanczos_center_2.png" />
 
-  <link rel="canonical" href="https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" />
+  <link rel="canonical" href="https://markvdw.github.io/talk/convolutional-gaussian-processes/" />
 
   
   
@@ -333,9 +333,9 @@
   <meta property="twitter:card" content="summary" />
   
   <meta property="og:site_name" content="Mark van der Wilk" />
-  <meta property="og:url" content="https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" />
-  <meta property="og:title" content="Learning Invariances using the Marginal Likelihood | Mark van der Wilk" />
-  <meta property="og:description" content="Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function." /><meta property="og:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:url" content="https://markvdw.github.io/talk/convolutional-gaussian-processes/" />
+  <meta property="og:title" content="Convolutional Gaussian Processes | Mark van der Wilk" />
+  <meta property="og:description" content="When learning mappings from data, knowledge about what modifications to the input leave the output unchanged can strongly improve generalisation. Exploiting these invariances is commonplace in many machine learning models, under the guise of convolutional structure or data augmentation. Choosing which invariances to use, however, is still done with humans in the loop, through trial-and-error and crossvalidation. In this talk, we will discuss how Gaussian processes can be constrained to exhibit invariances, and how this is useful for various applications. We will also show how invariances can be learned with backpropagation using tools from Bayesian model selection." /><meta property="og:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -344,7 +344,7 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-02-17T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2017-09-28T00:00:00&#43;00:00">
   
 
   
@@ -363,17 +363,17 @@
   "@type": "Event",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/"
+    "@id": "https://markvdw.github.io/talk/convolutional-gaussian-processes/"
   },
-  "name": "Learning Invariances using the Marginal Likelihood",
+  "name": "Convolutional Gaussian Processes",
   
   "location": {
     "@type": "Place",
-    "name": "EURECOM, Sophia Antipolis, France"
+    "name": "ASML, Eindhoven, the Netherlands"
   },
   
   
-  "startDate": "2020-02-17T00:00:00Z",
+  "startDate": "2017-09-28T00:00:00Z",
   
   
   "performer": {
@@ -381,7 +381,7 @@
     "name": "Mark van der Wilk"
   },
   
-  "description": "Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function."
+  "description": "When learning mappings from data, knowledge about what modifications to the input leave the output unchanged can strongly improve generalisation. Exploiting these invariances is commonplace in many machine learning models, under the guise of convolutional structure or data augmentation. Choosing which invariances to use, however, is still done with humans in the loop, through trial-and-error and crossvalidation. In this talk, we will discuss how Gaussian processes can be constrained to exhibit invariances, and how this is useful for various applications. We will also show how invariances can be learned with backpropagation using tools from Bayesian model selection."
 }
 </script>
 
@@ -395,11 +395,11 @@
 
 
 
-  <title>Learning Invariances using the Marginal Likelihood | Mark van der Wilk</title>
+  <title>Convolutional Gaussian Processes | Mark van der Wilk</title>
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4c18add12979cbf05e72e53c41dc8460" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a37385af468ea91e315c1fa6a3ec786f" >
 
   
   
@@ -657,7 +657,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Learning Invariances using the Marginal Likelihood</h1>
+  <h1>Convolutional Gaussian Processes</h1>
 
   
 
@@ -728,14 +728,6 @@
 
 
 
-  
-  
-    
-  
-<a class="btn btn-outline-primary btn-page-header" href="https://www.dropbox.com/sh/c90tjq3qkbbqwju/AABeLAfsLPKIU073-ShWN-v5a?dl=0&amp;fbclid=IwAR01IG5Jj9qwFduRaZt1x1yCcT5V4b5fRx0JP0eQIQq5Uh0g0a53UrgexRg&amp;preview=mark.pdf" target="_blank" rel="noopener">
-  Slides
-</a>
-
 
 
 
@@ -752,7 +744,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://ismseminar.github.io/fimi2020/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="http://gpss.cc/gpss19/workshop.html" target="_blank" rel="noopener">
     
     Event
   </a>
@@ -770,7 +762,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function.</p>
+      <p class="pub-abstract">When learning mappings from data, knowledge about what modifications to the input leave the output unchanged can strongly improve generalisation. Exploiting these invariances is commonplace in many machine learning models, under the guise of convolutional structure or data augmentation. Choosing which invariances to use, however, is still done with humans in the loop, through trial-and-error and crossvalidation. In this talk, we will discuss how Gaussian processes can be constrained to exhibit invariances, and how this is useful for various applications. We will also show how invariances can be learned with backpropagation using tools from Bayesian model selection.</p>
     
 
     <div class="row">
@@ -779,7 +771,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Feb 17, 2020
+            Sep 28, 2017
           </div>
         </div>
       </div>
@@ -787,22 +779,6 @@
     </div>
     <div class="d-md-none space-below"></div>
 
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Event</div>
-          <div class="col-12 col-md-9">
-            <a href="https://ismseminar.github.io/fimi2020/" target="_blank" rel="noopener">
-            Workshop on Functional Inference and Machine Intelligence
-            </a>
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
     
 
     
@@ -811,7 +787,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">EURECOM, Sophia Antipolis, France</div>
+          <div class="col-12 col-md-9">ASML, Eindhoven, the Netherlands</div>
           
         </div>
       </div>
@@ -846,7 +822,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/&amp;text=Learning%20Invariances%20using%20the%20Marginal%20Likelihood" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://markvdw.github.io/talk/convolutional-gaussian-processes/&amp;text=Convolutional%20Gaussian%20Processes" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -859,7 +835,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/&amp;t=Learning%20Invariances%20using%20the%20Marginal%20Likelihood" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://markvdw.github.io/talk/convolutional-gaussian-processes/&amp;t=Convolutional%20Gaussian%20Processes" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -872,7 +848,7 @@
       
       
       <li>
-        <a href="mailto:?subject=Learning%20Invariances%20using%20the%20Marginal%20Likelihood&amp;body=https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Convolutional%20Gaussian%20Processes&amp;body=https://markvdw.github.io/talk/convolutional-gaussian-processes/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -885,7 +861,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/&amp;title=Learning%20Invariances%20using%20the%20Marginal%20Likelihood" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://markvdw.github.io/talk/convolutional-gaussian-processes/&amp;title=Convolutional%20Gaussian%20Processes" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -898,7 +874,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Learning%20Invariances%20using%20the%20Marginal%20Likelihood%20https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Convolutional%20Gaussian%20Processes%20https://markvdw.github.io/talk/convolutional-gaussian-processes/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -911,7 +887,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/&amp;title=Learning%20Invariances%20using%20the%20Marginal%20Likelihood" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://markvdw.github.io/talk/convolutional-gaussian-processes/&amp;title=Convolutional%20Gaussian%20Processes" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

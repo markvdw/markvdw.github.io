@@ -92,8 +92,14 @@
     <loc>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</loc>
     <lastmod>2021-05-13T10:08:57+01:00</lastmod>
   </url><url>
+    <loc>https://markvdw.github.io/talk/variational-gaussian-processes-without-matrix-inverses/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/</loc>
     <lastmod>2020-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/</loc>
+    <lastmod>2020-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication-type/2/</loc>
     <lastmod>2021-05-13T10:08:58+01:00</lastmod>
@@ -128,8 +134,14 @@
     <loc>https://markvdw.github.io/publication/burt-2020-vof/</loc>
     <lastmod>2021-05-13T10:08:58+01:00</lastmod>
   </url><url>
+    <loc>https://markvdw.github.io/talk/variational-gaussian-process-models-without-matrix-inverses/</loc>
+    <lastmod>2019-12-08T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markvdw.github.io/talk/sampling-for-data-augmentation-generative-models-vs-invariances/</loc>
     <lastmod>2019-10-10T13:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/invariances-in-gaussian-processes-and-how-to-learn-them/</loc>
+    <lastmod>2019-09-12T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication/ialongo-2019-overcoming/</loc>
     <lastmod>2021-05-13T10:08:56+01:00</lastmod>
@@ -155,11 +167,17 @@
     <loc>https://markvdw.github.io/publication/vdw-2019-sparse/</loc>
     <lastmod>2021-05-13T10:08:56+01:00</lastmod>
   </url><url>
+    <loc>https://markvdw.github.io/talk/convolutional-gaussian-processes-a-building-block-for-bayesian-deep-learning/</loc>
+    <lastmod>2018-07-08T13:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markvdw.github.io/publication-type/6/</loc>
     <lastmod>2021-05-13T10:08:55+01:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication/vdw-2018-invgp/</loc>
     <lastmod>2021-05-13T10:08:55+01:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/convolutional-gaussian-processes/</loc>
+    <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication/ialongo-2017-closed/</loc>
     <lastmod>2021-05-13T10:08:55+01:00</lastmod>

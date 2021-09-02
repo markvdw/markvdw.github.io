@@ -60,6 +60,14 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
+      <title>Variational Gaussian Processes without Matrix Inverses</title>
+      <link>https://markvdw.github.io/talk/variational-gaussian-processes-without-matrix-inverses/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/variational-gaussian-processes-without-matrix-inverses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning Invariances using the Marginal Likelihood</title>
       <link>https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/</link>
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
@@ -68,10 +76,50 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
+      <title>Learning Invariances using the Marginal Likelihood</title>
+      <link>https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/</link>
+      <pubDate>Mon, 17 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Variational Gaussian Process Models without Matrix Inverses</title>
+      <link>https://markvdw.github.io/talk/variational-gaussian-process-models-without-matrix-inverses/</link>
+      <pubDate>Sun, 08 Dec 2019 13:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/variational-gaussian-process-models-without-matrix-inverses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sampling for Data Augmentation: Generative Models vs Invariances</title>
       <link>https://markvdw.github.io/talk/sampling-for-data-augmentation-generative-models-vs-invariances/</link>
       <pubDate>Thu, 10 Oct 2019 13:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/talk/sampling-for-data-augmentation-generative-models-vs-invariances/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invariances in Gaussian processes and How to Learn Them</title>
+      <link>https://markvdw.github.io/talk/invariances-in-gaussian-processes-and-how-to-learn-them/</link>
+      <pubDate>Thu, 12 Sep 2019 13:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/invariances-in-gaussian-processes-and-how-to-learn-them/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Gaussian Processes: a Building Block for Bayesian Deep Learning</title>
+      <link>https://markvdw.github.io/talk/convolutional-gaussian-processes-a-building-block-for-bayesian-deep-learning/</link>
+      <pubDate>Sun, 08 Jul 2018 13:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/convolutional-gaussian-processes-a-building-block-for-bayesian-deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Gaussian Processes</title>
+      <link>https://markvdw.github.io/talk/convolutional-gaussian-processes/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/convolutional-gaussian-processes/</guid>
       <description></description>
     </item>
     
