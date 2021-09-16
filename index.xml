@@ -5,12 +5,28 @@
     <link>https://markvdw.github.io/</link>
       <atom:link href="https://markvdw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark van der Wilk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 12 Oct 2021 19:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Input Densities and Predictive Uncertainties</title>
+      <link>https://markvdw.github.io/talk/input-densities-and-predictive-uncertainties/</link>
+      <pubDate>Tue, 12 Oct 2021 19:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/input-densities-and-predictive-uncertainties/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Augmentation in Infinitely Wide Neural Networks</title>
+      <link>https://markvdw.github.io/talk/data-augmentation-in-infinitely-wide-neural-networks/</link>
+      <pubDate>Tue, 21 Sep 2021 19:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/data-augmentation-in-infinitely-wide-neural-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Correlated Weights in Infinite Limits of Deep Convolutional Neural Networks</title>
@@ -636,6 +652,14 @@ Three
       <link>https://markvdw.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://markvdw.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/people/</guid>
       <description></description>
     </item>
     

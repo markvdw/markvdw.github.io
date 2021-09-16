@@ -2,14 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://markvdw.github.io/talk/input-densities-and-predictive-uncertainties/</loc>
+    <lastmod>2021-10-12T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/</loc>
+    <lastmod>2021-10-12T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/event/</loc>
+    <lastmod>2021-10-12T19:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/data-augmentation-in-infinitely-wide-neural-networks/</loc>
+    <lastmod>2021-09-21T19:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markvdw.github.io/publication-type/1/</loc>
     <lastmod>2021-05-13T10:09:00+01:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</loc>
     <lastmod>2021-05-13T10:08:59+01:00</lastmod>
-  </url><url>
-    <loc>https://markvdw.github.io/</loc>
-    <lastmod>2021-09-02T22:57:16+02:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication_types/</loc>
     <lastmod>2021-09-02T22:57:16+02:00</lastmod>
@@ -22,9 +31,6 @@
   </url><url>
     <loc>https://markvdw.github.io/publication/artemevburt-2021-cglb/</loc>
     <lastmod>2021-05-13T10:09:00+01:00</lastmod>
-  </url><url>
-    <loc>https://markvdw.github.io/event/</loc>
-    <lastmod>2021-06-02T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/talk/reliable-training-of-gaussian-process-approximations/</loc>
     <lastmod>2021-06-02T16:00:00+00:00</lastmod>
@@ -213,5 +219,7 @@
     <lastmod>2021-05-13T10:08:54+01:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/admin/</loc>
+  </url><url>
+    <loc>https://markvdw.github.io/people/</loc>
   </url>
 </urlset>
