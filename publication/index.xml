@@ -85,6 +85,14 @@
     </item>
     
     <item>
+      <title>Speedy Performance Estimation for Neural Architecture Search</title>
+      <link>https://markvdw.github.io/publication/ru-2021-speed/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ru-2021-speed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Understanding Variational Inference in Function-Space</title>
       <link>https://markvdw.github.io/publication/burt-2020-understanding/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -145,14 +153,6 @@
       <link>https://markvdw.github.io/publication/lyle-2020-benefits/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/lyle-2020-benefits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting the Train Loss: an Efficient Performance Estimator for Neural Architecture Search</title>
-      <link>https://markvdw.github.io/publication/ru-2020-speed/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ru-2020-speed/</guid>
       <description></description>
     </item>
     

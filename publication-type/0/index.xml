@@ -37,14 +37,6 @@
     </item>
     
     <item>
-      <title>Deep Neural Networks as Point Estimates for Deep Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/dutordoir-2021-relu/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/dutordoir-2021-relu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>GPflux: A Library for Deep Gaussian Processes</title>
       <link>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -89,14 +81,6 @@
       <link>https://markvdw.github.io/publication/lyle-2020-benefits/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/lyle-2020-benefits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Revisiting the Train Loss: an Efficient Performance Estimator for Neural Architecture Search</title>
-      <link>https://markvdw.github.io/publication/ru-2020-speed/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ru-2020-speed/</guid>
       <description></description>
     </item>
     
