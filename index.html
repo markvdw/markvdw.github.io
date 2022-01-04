@@ -345,7 +345,7 @@
     <meta property="twitter:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2021-10-12T19:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2022-01-04T00:00:00&#43;00:00" />
     
   
 
@@ -538,7 +538,37 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/people/"><span>Research group</span></a>
+          <a class="nav-link " href="/research-overview/"><span>Research Overview</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/people/"><span>Group</span></a>
         </li>
 
         
@@ -858,28 +888,25 @@
 
     <div class="article-style">
       <h1 id="research">Research</h1>
-<p>In January 2020 I joined the <a href="https://www.imperial.ac.uk/computing" target="_blank" rel="noopener">Department of Computing</a> at <a href="http://www.imperial.ac.uk" target="_blank" rel="noopener">Imperial College London</a> as a lecturer (assistant professor). My research works towards developing systems which learn to accomplish tasks through experience from interacting with the environment, with as little experience as possible. I aim to let the underlying principles of inference and learning guide my work, both from the point of view of developing practical methods from first principles, and from finding underlying principles in existing methods.</p>
-<p>My research is motivated by <strong>reinforcement learning</strong> methods which use explicit <strong>predictive models</strong> of the world to plan behaviour. This approach improves <strong>data efficiency</strong>, as knowledge about the world generalises strongly to new situations. Learning good models of the world, with a reliable estimate of their own <strong>uncertainty</strong>, is crucial to the success of these methods. In addition, they need to be <strong>automatic</strong>, in the sense that they should not rely on human design or intervention as they learn.</p>
-<p>Currently, the main component of my research is building better predictive models. In reinforcement learning / decision making applications, we require <strong>a)</strong> uncertainty estimates, for avoiding or taking calculated risks, and <strong>b)</strong> automatic adaptation with increasing data, as more experience is gained. <strong>Bayesian inference</strong> provides an elegant framework for representing uncertainty, and automating many aspects of the modelling process.
-Currently, I am interested in bringing the benefits of Bayesian inference to deep learning models, using <strong>Gaussian processes</strong> as a building block.</p>
-<p>My work has been presented at the leading machine learning conferences (<a href="http://neurips.cc" target="_blank" rel="noopener">NeurIPS</a> and <a href="http://icml.cc" target="_blank" rel="noopener">ICML</a>), including an <a href="https://papers.nips.cc/paper/6877-convolutional-gaussian-processes" target="_blank" rel="noopener">oral presentation</a> and a <a href="http://proceedings.mlr.press/v97/burt19a.html" target="_blank" rel="noopener">best paper award</a>. Personally, I&rsquo;m currently enthusiastic about our <a href="https://papers.nips.cc/paper/8199-learning-invariances-using-the-marginal-likelihood" target="_blank" rel="noopener">paper</a> on learning what <a href="https://twitter.com/markvanderwilk/status/1030372400322543618" target="_blank" rel="noopener">invariance</a> should be used as an inductive bias for a particular dataset.</p>
-<h2 id="working-with-me">Working with me</h2>
-<p>I will have spaces for a small number (~2) of PhD students a year in the next few years. I am looking for people with a strong academic background (particularly strong mathematical skills) who are keen to work on topics that are aligned with my interests (see below).</p>
-<p>A strong mathematical background is usually demonstrated by a first-class (or equivalent) degree in information or electrical engineering, physics, maths, or computer science. A background in e.g. linear algebra, probability, statistics, and optimisation are particularly important. You can demonstrate alignment with my research interests with a short research statement that outlines <strong>1)</strong> what problem you are interested in, <strong>2)</strong> why this problem is interesting or important, and <strong>3)</strong> what techniques you think will be useful or necessary for reaching your goals.</p>
-<h2 id="topics">Topics</h2>
+<p>I am a lecturer (assistant professor) in the <a href="https://www.imperial.ac.uk/computing" target="_blank" rel="noopener">Department of Computing</a> at <a href="http://www.imperial.ac.uk" target="_blank" rel="noopener">Imperial College London</a>. Together with my <a href="/people/">research group</a>, I work on machine learning, which aims to automatically find solutions to problems by gaining experience (data) from interacting with the environment. I aim to improve three properties of ML methods:</p>
 <ul>
-<li>Bayesian inference and approximations to it (variational inference, EP, MCMC, &hellip;).</li>
-<li>Gaussian process models (deep GPs, GPSSM, GPLVM, &hellip;) or their theoretical properties.</li>
-<li>Bayesian deep learning (inference over weights, using GPs as building blocks, &hellip;).</li>
-<li>Neural networks / other models with invariance properties (e.g. rotation, scale, or more arbitrary) and learning invariances.</li>
-<li>Analysis of deep neural networks (infinite limits and GP relations).</li>
-<li>Model-based reinforcement learning.</li>
-<li>Differentially private machine learning.</li>
-<li>Connections between Bayesian inference and generalisation error bounds.</li>
+<li>Automatic Machine Learning: Methods are too brittle, and require human design and oversight.</li>
+<li>Data efficiency: Making better predictions with less data.</li>
+<li>Uncertainty quantification and decision making: Uncertainty tells us when risks are worth taking.</li>
 </ul>
+<p>Improvements in these areas would benefit the full spectrum of applications: from tasks with small amounts of data where eliminating noise is important, to high-dimensional large-data settings where neural networks are applied to natural data like images. To tackle these problems, I apply strong principles from statistics to machine learning models. Doing so requires developing accurate approximations to the statistical methods, as the exact computations are impossible to do. In terms of methods, I mainly work on Gaussian processes and neural networks (and the strong links between them).</p>
+<p>My work has been presented at the leading machine learning conferences (<a href="http://neurips.cc" target="_blank" rel="noopener">NeurIPS</a> and <a href="http://icml.cc" target="_blank" rel="noopener">ICML</a>), and includes a <a href="http://proceedings.mlr.press/v97/burt19a.html" target="_blank" rel="noopener">best paper award</a>. Personally, I&rsquo;m currently enthusiastic about our <a href="https://papers.nips.cc/paper/8199-learning-invariances-using-the-marginal-likelihood" target="_blank" rel="noopener">paper</a> on learning what <a href="https://twitter.com/markvanderwilk/status/1030372400322543618" target="_blank" rel="noopener">invariance</a> should be used as an inductive bias for a dataset of interest.</p>
+<p>See my <a href="/research-overview">Research Overview</a> page for more details on my research interests.</p>
+<h2 id="academic-or-industrial-collaborations">Academic or Industrial Collaborations</h2>
+<p>I am also interested in applied problems, and am keen to collaborate. While my <a href="/research-overview/">research overview</a> gives a more complete picture of topics, I wanted to give a special mention to problems where 1) <em>signal needs to be distinguished from noise</em>, 2) <em>knowledge needs to be encoded into the model</em>, or 3) <em>data is scarce, or needs to be acquired intelligently</em>.
+Tools like (deep) Gaussian processes can make a difference here, and recent developments have provided new capabilities of dealing with higher-dimensional inputs or large datasets. Current ongoing collaborations include tailored Bayesian optimisation models for biomolecular design or optimisation of chemical processes.</p>
+<p>If you have a problem that fits these descriptions, please do get in touch. Collaborations can range from publishing case-studies or datasets which can serve as a community benchmark, to consulting, to methods research.</p>
+<h2 id="working-with-me">Working with me</h2>
+<p>I will have spaces for a small number (~2) of PhD students a year in the next few years. I am looking for people with a strong academic background (particularly strong mathematical skills) who are keen to work on topics that are aligned with my <a href="/research-overview/">interests</a>. I have written up some <a href="https://hackmd.io/@OccamLab/ByU8sqxBd" target="_blank" rel="noopener">tips and guidelines for applying</a>, which I recommend you read before applying.</p>
+<!-- A strong mathematical background is usually demonstrated by a first-class (or equivalent) degree in information or electrical engineering, physics, maths, or computer science. A background in e.g. linear algebra, probability, statistics, and optimisation are particularly important. You can demonstrate alignment with my research interests with a short research statement that outlines **1)** what problem you are interested in, **2)** why this problem is interesting or important, and **3)** what techniques you think will be useful or necessary for reaching your goals. -->
 <h1 id="about">About</h1>
-<p>Before starting at Imperial, I worked with <a href="https://twitter.com/jameshensman" target="_blank" rel="noopener">James Hensman</a> for two years as a machine learning researcher at <a href="https://www.secondmind.ai" target="_blank" rel="noopener">Secondmind</a>, a research-led startup aiming to solve a wide variety of decision making problems. I did my PhD in the <a href="http://mlg.eng.cam.ac.uk" target="_blank" rel="noopener">Machine Learning Group</a> at the University of Cambridge, working with <a href="http://mlg.eng.cam.ac.uk/carl/" target="_blank" rel="noopener">Carl Rasmussen</a>, and completing my <a href="vanderwilk-thesis.pdf">thesis</a> in 2017. I was funded by the EPSRC and awarded a <a href="https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship" target="_blank" rel="noopener">Qualcomm Innovation Fellowship</a> for my final year.
-During my PhD, I occasionally worked as a machine learning consultant, and I also spent a few months as a visiting researcher at Google in Mountain View, CA. I moved to the UK from the Netherlands for my undergraduate degree in Engineering at <a href="https://www.jesus.cam.ac.uk" target="_blank" rel="noopener">Jesus College</a>, University of Cambridge.</p>
+<p>Before starting at Imperial, I worked with <a href="https://twitter.com/jameshensman" target="_blank" rel="noopener">James Hensman</a> for two years as a machine learning researcher at <a href="https://www.secondmind.ai" target="_blank" rel="noopener">Secondmind</a>, a research-led startup aiming to solve a wide variety of decision making problems. I did my PhD in the <a href="http://mlg.eng.cam.ac.uk" target="_blank" rel="noopener">Machine Learning Group</a> at the University of Cambridge, working with <a href="http://mlg.eng.cam.ac.uk/carl/" target="_blank" rel="noopener">Prof. Carl Rasmussen</a>, and completing my <a href="vanderwilk-thesis.pdf">thesis</a> in 2017. I was funded by the EPSRC and awarded a <a href="https://www.qualcomm.com/invention/research/university-relations/innovation-fellowship" target="_blank" rel="noopener">Qualcomm Innovation Fellowship</a> for my final year.
+During my PhD, I occasionally worked as a machine learning consultant, and I also spent a few months as a visiting researcher at Google in Mountain View, CA. I moved to the UK from the Netherlands for my undergraduate degree in Engineering.</p>
 <!-- # 
   <i class="fas fa-download  pr-1 fa-fw"></i> Download my <a href="/media/demo_resume.pdf" target="_blank">resumé</a>. -->
 
