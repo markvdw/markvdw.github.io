@@ -742,7 +742,7 @@
     <div class="article-style">
       <h2 id="list-of-research-interests">List of Research Interests</h2>
 <ul>
-<li>Bayesian inference and approximations to it (variational inference, EP, MCMC, &hellip;).</li>
+<li>Bayesian inference and approximations to it (variational, EP, MCMC, Stein, &hellip;).</li>
 <li>Gaussian process models (deep GPs, GPSSM, GPLVM, &hellip;), practical approximations to them, and their theoretical properties.</li>
 <li>Bayesian deep learning (inference over weights, using GPs as building blocks, &hellip;).</li>
 <li>Neural networks / other models with invariance properties (e.g. rotation, scale, or more arbitrary) and learning invariances.</li>
@@ -751,6 +751,7 @@
 <li>Differentially private machine learning.</li>
 <li>Connections between Bayesian inference and generalisation error bounds.</li>
 <li>Connections between causality and model selection.</li>
+<li>Applications involving tailored probabilistic models for e.g. Bayesian optimisation.</li>
 </ul>
 <h2 id="high-level-aims-and-approach">High-level aims and approach</h2>
 <p>Our research aims to improve three broad properties of Machine Learning methods:</p>
@@ -762,7 +763,7 @@
 <p>Improvements in these areas would benefit the full spectrum of applications: from tasks with small amounts of data where eliminating noise is important, to high-dimensional large-data settings where neural networks are applied to natural data like images.</p>
 <p>Approaches from statistics can help to improve these three areas, e.g. Bayesian modelling. Bayesian modelling is well-known for helping with quantifying uncertainty. This is important for decision making, since risk needs to be taken into account. If a self-driving car is 5% sure the road ahead is blocked, it can slow down to gain more information, or perform evasive action. If a &ldquo;best guess&rdquo; is given of &ldquo;not blocked&rdquo;, the consequences can be catastrophic. Bayesian deep learning aims to get better uncertainty estimates, and we do work on this.</p>
 <p>However, I&rsquo;m more excited about an underappreciated ability of the Bayesian framework: automatic inductive bias selection. By developing this ability in neural networks, the design of network architecture could be automated. Deep learning would be much more practical if humans wouldn&rsquo;t need to make a multitude of design choices, like how many layers are needed, how wide they should be, their convolutional structure, and so on. Currently, these choices are made by cross-validation, which is basically trial-and-error where different versions of the network are trained from scratch. The Bayesian approach provides a single objective function that can be optimised to find architecture and weights at the same time. The long-term goal for this line of research, is to be able to determine the connectivity structure of neurons (because this is what architecture is), in a single training run of the network. This would vastly simplify network design.</p>
-<p>Another hypothesis in the ML community is that simply scaling models to be larger will solve the three problems mentioned above, rather than improving training procedures. Approaches like meta-learning and large language models like GPT-3 push in this direction. This brings up its own interesting open questions that statistical reasoning can contribute to: What tasks and datasets should be used? Can statistical knowledge inform architecture? How should methods be evaluated? These are certainly also interesting questions to investigate.</p>
+<p>Another hypothesis in the ML community is that simply scaling models to be larger will solve the three problems mentioned above, rather than improving training procedures. Approaches like meta-learning and large language models like GPT-3 push in this direction. This brings up its own interesting open questions that statistical reasoning can contribute to: What tasks and datasets should be used? Can knowledge about the mathematics of inference inform architecture design? How should methods be evaluated? These are certainly also interesting questions to investigate.</p>
 <p>I&rsquo;m not completely sure what approach I would bet on. I certainly follow developments in meta-learning and large models carefully. If the answer to this was clear, this wouldn&rsquo;t be research. Luckily, there are interesting questions to investigate in both directions.</p>
 <h2 id="research-highlights">Research Highlights</h2>
 <p>To give a more concrete idea of research we have done, here are some projects and papers roughly grouped together in themes. These projects were done together with collaborators and students, so do look at the papers themselves.</p>
@@ -788,22 +789,34 @@
 <p>There is plenty of more to do!</p>
 <h3 id="accurate-and-automatic-gaussian-process-approximations">Accurate and Automatic Gaussian process approximations</h3>
 <p>We also do nitty-gritty research to make Gaussian processes (a model that is also common in statistics) work <em>really</em> well. One neat property of GPs is that there are principles for selecting all their free parameters. In principle, this means that humans aren&rsquo;t needed in the loop to train them.</p>
-<p>Unfortunately, to reduce computational complexity, approximations need to be introduced. These often introduce free parameters again, which then means that a human has to intervene to ensure that the quality of the approximation is acceptable. We improved two GP approximations (variational and conjugate gradient) by providing:</p>
+<p>Unfortunately, to reduce computational complexity, approximations need to be introduced. These often introduce free parameters again, which then means that a human has to intervene to ensure that the quality of the approximation is acceptable. This defeats part of the point! We improved two GP approximations (variational and conjugate gradient) by providing:</p>
 <ul>
 <li>automatic procedures for selecting approximation parameters, and</li>
 <li>mathematical guarantees on the quality of the solution.</li>
 </ul>
+<p>This helps the methods give solutions in a more computationally efficient manner, while also making them more accurate. These methods help give predictions that you can really trust.</p>
 <p>See:</p>
 <ul>
 <li><a href="/publication/burt-2020-convergence/">Convergence of Sparse Variational Inference in Gaussian Process Regression</a> (or the shorter <a href="/publication/burt-2019-rates/">conference version</a>)</li>
 <li><a href="/publication/artemevburt-2021-cglb/">Tighter Bounds on the Log Marginal Likelihood of Gaussian Process Regression Using Conjugate Gradients
 </a></li>
 </ul>
+<p>In the search for faster GP approximations, I have also worked on variational bounds that <a href="/publication/vdw-2020-inv/">do not require matrix inverses to be computed</a>. While the maths works, getting the method to optimise quickly enough for it to actually provide a practical benefit is still difficult. I do think the results are neat, and that there is a lot more to be looked into here.</p>
+<h3 id="deep-gaussian-processes">Deep Gaussian processes</h3>
+<p>Why is accurate Gaussian process inference important? Well, apart from GPs being useful for noisy and/or low-data tasks where quantifying uncertainty is important<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup>, GPs are also a different representation of a neural network layer. It seems that there are advantages in terms of the quality of approximate Bayesian inference when representing a layer as a GP rather than with weights. One key research question is whether thinking about neural network layers as GPs can help bring the benefits of Bayesian inference (uncertainty and automatic model selection) to deep neural networks.</p>
+<p>The evidence of this comes from the very first papers on deep GPs by <a href="http://proceedings.mlr.press/v31/damianou13a.html" target="_blank" rel="noopener">Damianou &amp; Lawrence</a>, where the marginal likelihood estimate was already used for model selection. Simple inference methods keep this property, even as <a href="/publication/dutordoir-2020-dcgp/">deep GP models become more complex</a>.</p>
+<p>Techniques that accomplish similar things for neural networks are only now being developed. However, in some ways the approaches in deep GPs are simpler and easier, even if they are computationally expensive. I think that there is a significant opportunity for both classes of models to benefit from each other&rsquo;s strengths. <a href="/publication/dutordoir-2021-relu/">Deep links between deep GPs and deep neural networks</a> are becoming clearer, and can provide a concrete way to get the best of both worlds.</p>
+<h3 id="capsules">Capsules</h3>
+<p>I do believe that good model structure is the most important property for good performance. When I first heard Geoff Hinton&rsquo;s talk about capsule networks, I was very intrigued by the inductive bias specified by the network alone. In addition, there seems to be a lot of probabilistic inspiration behind the routing algorithm.</p>
+<p>Together with Lewis Smith et al, we attempted to make a fully <a href="/publication/smith-2020-capsules/">probabilistic formulation</a> of capsule networks, which would allow routing to be derived directly from inference. Although our practical success was limited, the project did provide a lot of insight. I do still believe in the idea behind capsules and their link to probabilistic inference. Hopefully this won&rsquo;t be our last project on the topic.</p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
 <li id="fn:1" role="doc-endnote">
 <p>See <a href="http://www.inference.org.uk/mackay/itila/book.html" target="_blank" rel="noopener">David MacKay&rsquo;s excellent textbook</a> for a good intro.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+<li id="fn:2" role="doc-endnote">
+<p>Which is the case in many industrial and engineering problems.&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
