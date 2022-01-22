@@ -273,12 +273,12 @@ url = {https://arxiv.org/abs/2004.03553},
  year = {2020}
 }
 
-@misc{fortuin2021priors,
+@inproceedings{fortuin2022priors,
+title={Bayesian Neural Network Priors Revisited},
 Author = {Vincent Fortuin and Adrià Garriga-Alonso and Florian Wenzel and Gunnar Rätsch and Richard Turner and Mark van der Wilk and Laurence Aitchison},
-Title = {Bayesian Neural Network Priors Revisited},
-Year = {2021},
-Eprint = {arXiv:2102.06571},
-url = {https://arxiv.org/abs/2102.06571},
+booktitle={The Tenth International Conference on Learning Representations (ICLR)},
+year={2022},
+url={https://openreview.net/forum?id=xkjqJYqRJy},
 }
 
 @misc{dutordoir2021gpflux,
@@ -323,14 +323,12 @@ url = {https://arxiv.org/abs/2104.05674},
   abstract = 	 {We propose a lower bound on the log marginal likelihood of Gaussian process regression models that can be computed without matrix factorisation of the full kernel matrix. We show that approximate maximum likelihood learning of model parameters by maximising our lower bound retains many benefits of the sparse variational approach while reducing the bias introduced into hyperparameter learning. The basis of our bound is a more careful analysis of the log-determinant term appearing in the log marginal likelihood, as well as using the method of conjugate gradients to derive tight lower bounds on the term involving a quadratic form. Our approach is a step forward in unifying methods relying on lower bound maximisation (e.g. variational methods) and iterative approaches based on conjugate gradients for training Gaussian processes. In experiments, we show improved predictive performance with our model for a comparable amount of training time compared to other conjugate gradient based approaches.}
 }
 
-@misc{schwoebel2021layer,
-      title={Last Layer Marginal Likelihood for Invariance Learning}, 
-      author={Pola Schwöbel and Martin Jørgensen and Sebastian W. Ober and Mark van der Wilk},
-      year={2021},
-      eprint={2106.07512},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2106.07512}
+@InProceedings{schwoebel2022layer,
+  title = 	 {Last Layer Marginal Likelihood for Invariance Learning},
+  author =       {Pola Schwöbel and Martin Jørgensen and Sebastian W. Ober and Mark van der Wilk},
+  booktitle = 	 {Proceedings of the Twenty Fifth International Conference on Artificial Intelligence and Statistics (AISTATS)},
+  year = 	 {2022},
+  url={https://arxiv.org/abs/2106.07512}
 }
 
 @misc{nabarro2021data,
@@ -378,3 +376,20 @@ booktitle = {ICML 2021 Workshop on Uncertainty & Robustness in Deep Learning},
 year = {2021},
 url = {http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-077.pdf},
 }
+
+@incollection{vdw2022inv,
+title={Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes},
+author={Mark van der Wilk and Artem Artemev and James Hensman},
+booktitle={Fourth Symposium on Advances in Approximate Bayesian Inference},
+year={2022},
+month={feb},
+}
+
+@incollection{popescu2022tproc,
+title={Matrix Inversion free variational inference in Conditional Student's T Processes},
+author={Sebastian Popescu and Ben Glocker and Mark van der Wilk},
+booktitle={Fourth Symposium on Advances in Approximate Bayesian Inference},
+year={2022},
+month={feb},
+}
+

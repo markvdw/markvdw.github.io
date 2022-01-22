@@ -5,12 +5,28 @@
     <link>https://markvdw.github.io/publication-type/6/</link>
       <atom:link href="https://markvdw.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>6</title>
       <link>https://markvdw.github.io/publication-type/6/</link>
     </image>
+    
+    <item>
+      <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/vdw-2022-inv/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2022-inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Inversion free variational inference in Conditional Student&#39;s T Processes</title>
+      <link>https://markvdw.github.io/publication/popescu-2022-tproc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/popescu-2022-tproc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Learning Invariant Weights in Neural Networks</title>

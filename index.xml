@@ -5,12 +5,28 @@
     <link>https://markvdw.github.io/</link>
       <atom:link href="https://markvdw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark van der Wilk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 12 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/vdw-2022-inv/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2022-inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix Inversion free variational inference in Conditional Student&#39;s T Processes</title>
+      <link>https://markvdw.github.io/publication/popescu-2022-tproc/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/popescu-2022-tproc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Teaching</title>
@@ -117,6 +133,22 @@
     </item>
     
     <item>
+      <title>Bayesian Neural Network Priors Revisited</title>
+      <link>https://markvdw.github.io/publication/fortuin-2022-priors/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/fortuin-2022-priors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Last Layer Marginal Likelihood for Invariance Learning</title>
+      <link>https://markvdw.github.io/publication/schwoebel-2022-layer/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/schwoebel-2022-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Input Densities and Predictive Uncertainties</title>
       <link>https://markvdw.github.io/talk/input-densities-and-predictive-uncertainties/</link>
       <pubDate>Tue, 12 Oct 2021 19:00:00 +0000</pubDate>
@@ -213,14 +245,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Bayesian Neural Network Priors Revisited</title>
-      <link>https://markvdw.github.io/publication/fortuin-2021-priors/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/fortuin-2021-priors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
       <link>https://markvdw.github.io/publication/nabarro-2021-data/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -241,14 +265,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Last Layer Marginal Likelihood for Invariance Learning</title>
-      <link>https://markvdw.github.io/publication/schwoebel-2021-layer/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/schwoebel-2021-layer/</guid>
       <description></description>
     </item>
     

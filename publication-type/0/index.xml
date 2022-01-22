@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Bayesian Neural Network Priors Revisited</title>
-      <link>https://markvdw.github.io/publication/fortuin-2021-priors/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/fortuin-2021-priors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
       <link>https://markvdw.github.io/publication/nabarro-2021-data/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -41,14 +33,6 @@
       <link>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Last Layer Marginal Likelihood for Invariance Learning</title>
-      <link>https://markvdw.github.io/publication/schwoebel-2021-layer/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/schwoebel-2021-layer/</guid>
       <description></description>
     </item>
     
