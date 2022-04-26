@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://markvdw.github.io/talk/a-smarter-neuron-automating-neural-architecture-design/</loc>
+    <lastmod>2022-03-25T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/</loc>
+    <lastmod>2022-03-25T16:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/event/</loc>
+    <lastmod>2022-03-25T16:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://markvdw.github.io/talk/automating-gaussian-process-approximations/</loc>
     <lastmod>2022-03-09T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/talk/inductive-biases-input-densities-and-predictive-uncertainty/</loc>
-    <lastmod>2022-03-09T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markvdw.github.io/</loc>
-    <lastmod>2022-03-09T16:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markvdw.github.io/event/</loc>
     <lastmod>2022-03-09T16:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication-type/6/</loc>
