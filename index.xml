@@ -5,12 +5,20 @@
     <link>https://markvdw.github.io/</link>
       <atom:link href="https://markvdw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark van der Wilk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 25 Mar 2022 16:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 11 Jul 2022 11:30:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Learning Inductive Biases in Nerual Networks</title>
+      <link>https://markvdw.github.io/talk/learning-inductive-biases-in-nerual-networks/</link>
+      <pubDate>Mon, 11 Jul 2022 11:30:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/learning-inductive-biases-in-nerual-networks/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Smarter Neuron: Automating Neural Architecture Design</title>
