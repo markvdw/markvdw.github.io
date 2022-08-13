@@ -5,12 +5,28 @@
     <link>https://markvdw.github.io/publication/</link>
       <atom:link href="https://markvdw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://markvdw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
+      <link>https://markvdw.github.io/publication/nabarro-2022-data/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/nabarro-2022-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Invariant Weights in Neural Networks</title>
+      <link>https://markvdw.github.io/publication/vdo-2021-invariant-weights/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdo-2021-invariant-weights/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
@@ -41,6 +57,30 @@
       <link>https://markvdw.github.io/publication/schwoebel-2022-layer/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/schwoebel-2022-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Safe Computations with XLA Compiler</title>
+      <link>https://markvdw.github.io/publication/artemev-2022-xla/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/artemev-2022-xla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxing Equivariance Constraints with Non-stationary Continuous Filters</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SnAKe: Bayesian Optimization with Pathwise Exploration</title>
+      <link>https://markvdw.github.io/publication/folch-2022-snake/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2022-snake/</guid>
       <description></description>
     </item>
     
@@ -77,14 +117,6 @@
     </item>
     
     <item>
-      <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
-      <link>https://markvdw.github.io/publication/nabarro-2021-data/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/nabarro-2021-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Deep Neural Networks as Point Estimates for Deep Gaussian Processes</title>
       <link>https://markvdw.github.io/publication/dutordoir-2021-relu/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -97,14 +129,6 @@
       <link>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning Invariant Weights in Neural Networks</title>
-      <link>https://markvdw.github.io/publication/vdo-2021-invariant-weights/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/vdo-2021-invariant-weights/</guid>
       <description></description>
     </item>
     
