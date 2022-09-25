@@ -274,12 +274,12 @@ url = {https://arxiv.org/abs/2004.03553},
  year = {2020}
 }
 
-@inproceedings{fortuin2022priors,
+@inproceedings{fortuin2022bayesian,
 title={Bayesian Neural Network Priors Revisited},
-Author = {Vincent Fortuin and Adrià Garriga-Alonso and Florian Wenzel and Gunnar Rätsch and Richard Turner and Mark van der Wilk and Laurence Aitchison},
-booktitle={The Tenth International Conference on Learning Representations (ICLR)},
+author={Vincent Fortuin and Adri{\`a} Garriga-Alonso and Sebastian W. Ober and Florian Wenzel and Gunnar Ratsch and Richard E Turner and Mark van der Wilk and Laurence Aitchison},
+booktitle={International Conference on Learning Representations (ICLR)},
 year={2022},
-url={https://openreview.net/forum?id=xkjqJYqRJy},
+url={https://openreview.net/forum?id=xkjqJYqRJy}
 }
 
 @misc{dutordoir2021gpflux,
@@ -290,22 +290,36 @@ Eprint = {arXiv:2104.05674},
 url = {https://arxiv.org/abs/2104.05674},
 }
 
-@InProceedings{ober2021dkl,
-  title = 	 {The Promises and Pitfalls of Deep Kernel Learning},
-  author =       {Sebastian W. Ober and Carl E. Rasmussen and Mark van der Wilk},
-  booktitle = 	 {Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI)},
+@InProceedings{ober2021promises,
+  title = 	 {The promises and pitfalls of deep kernel learning},
+  author =       {Ober, Sebastian W. and Rasmussen, Carl E. and van der Wilk, Mark},
+  booktitle = 	 {Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence (UAI)},
+  pages = 	 {1206--1216},
   year = 	 {2021},
-  month =        {Jul},
+  editor = 	 {de Campos, Cassio and Maathuis, Marloes H.},
+  volume = 	 {161},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v161/ober21a/ober21a.pdf},
   url = 	 {https://proceedings.mlr.press/v161/ober21a.html},
+  abstract = 	 {Deep kernel learning and related techniques promise to combine the representational power of neural networks with the reliable uncertainty estimates of Gaussian processes. One crucial aspect of these models is an expectation that, because they are treated as Gaussian process models optimized using the marginal likelihood, they are protected from overfitting. However, we identify pathological behavior, including overfitting, on a simple toy example. We explore this pathology, explaining its origins and considering how it applies to real datasets. Through careful experimentation on UCI datasets, CIFAR-10, and the UTKFace dataset, we find that the overfitting from overparameterized deep kernel learning, in which the model is “somewhat Bayesian”, can in certain scenarios be worse than that from not being Bayesian at all. However, we find that a fully Bayesian treatment of deep kernel learning can rectify this overfitting and obtain the desired performance improvements over standard neural networks and Gaussian processes.}
 }
 
 @InProceedings{garriga-alonso2021correlated,
-  title = 	 {Correlated Weights in Infinite Limits of Deep Convolutional Neural Networks},
-  author =       {Adri{\`a} Garriga-Alonso and Mark van der Wilk},
-  booktitle = 	 {Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI)},
+  title = 	 {Correlated weights in infinite limits of deep convolutional neural networks},
+  author =       {Garriga-Alonso, Adri\`a and van der Wilk, Mark},
+  booktitle = 	 {Proceedings of the Thirty-Seventh Conference on Uncertainty in Artificial Intelligence},
+  pages = 	 {1998--2007},
   year = 	 {2021},
-  month =        {Jul},
+  editor = 	 {de Campos, Cassio and Maathuis, Marloes H.},
+  volume = 	 {161},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {Jul},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v161/garriga-alonso21a/garriga-alonso21a.pdf},
   url = 	 {https://proceedings.mlr.press/v161/garriga-alonso21a.html},
+  abstract = 	 {Infinite width limits of deep neural networks often have tractable forms. They have been used to analyse the behaviour of finite networks, as well as being useful methods in their own right. When investigating infinitely wide convolutional neural networks (CNNs), it was observed that the correlations arising from spatial weight sharing disappear in the infinite limit. This is undesirable, as spatial correlation is the main motivation behind CNNs. We show that the loss of this property is not a consequence of the infinite limit, but rather of choosing an independent weight prior. Correlating the weights maintains the correlations in the activations. Varying the amount of correlation interpolates between independent-weight limits and mean-pooling. Empirical evaluation of the infinitely wide network shows that optimal performance is achieved between the extremes, indicating that correlations can be useful.}
 }
 
 @InProceedings{artemevburt2021cglb,
@@ -369,13 +383,21 @@ url = {https://arxiv.org/abs/2104.05674},
  url = {https://arxiv.org/abs/2006.04492},
 }
 
-@InProceedings{vdo2021invariant-weights,
-  title = {Learning Invariant Weights in Neural Networks},
-  author = {van der Ouderaa, Tycho and van der Wilk, Mark},
-  booktitle = 	 {Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UAI)},
+
+@InProceedings{ouderaa2022learning,
+  title = 	 {Learning invariant weights in neural networks},
+  author =       {van der Ouderaa, Tycho F.A. and van der Wilk, Mark},
+  booktitle = 	 {Proceedings of the Thirty-Eighth Conference on Uncertainty in Artificial Intelligence (UAI)},
+  pages = 	 {1992--2001},
   year = 	 {2022},
-  month =        {Aug},
-  url = 	 {https://openreview.net/forum?id=BVxfSPUoqeq},
+  editor = 	 {Cussens, James and Zhang, Kun},
+  volume = 	 {180},
+  series = 	 {Proceedings of Machine Learning Research},
+  month = 	 {Aug},
+  publisher =    {PMLR},
+  pdf = 	 {https://proceedings.mlr.press/v180/ouderaa22a/ouderaa22a.pdf},
+  url = 	 {https://proceedings.mlr.press/v180/ouderaa22a.html},
+  abstract = 	 {Assumptions about invariances or symmetries in data can significantly increase the predictive power of statistical models. Many commonly used machine learning models are constraint to respect certain symmetries, such as translation equivariance in convolutional neural networks, and incorporating other symmetry types is actively being studied. Yet, learning invariances from the data itself remains an open research problem. It has been shown that the marginal likelihood offers a principled way to learn invariances in Gaussian Processes. We propose a weight-space equivalent to this approach, by minimizing a lower bound on the marginal likelihood to learn invariances in neural networks, resulting in naturally higher performing models.}
 }
 
 @incollection{vdw2022inv,
