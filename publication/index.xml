@@ -5,12 +5,44 @@
     <link>https://markvdw.github.io/publication/</link>
       <atom:link href="https://markvdw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://markvdw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations</title>
+      <link>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Safe Computations with XLA Compiler</title>
+      <link>https://markvdw.github.io/publication/artemev-2022-xla/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/artemev-2022-xla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relaxing Equivariance Constraints with Non-stationary Continuous Filters</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SnAKe: Bayesian Optimization with Pathwise Exploration</title>
+      <link>https://markvdw.github.io/publication/folch-2022-snake/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2022-snake/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
@@ -57,30 +89,6 @@
       <link>https://markvdw.github.io/publication/schwoebel-2022-layer/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/schwoebel-2022-layer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory Safe Computations with XLA Compiler</title>
-      <link>https://markvdw.github.io/publication/artemev-2022-xla/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/artemev-2022-xla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relaxing Equivariance Constraints with Non-stationary Continuous Filters</title>
-      <link>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SnAKe: Bayesian Optimization with Pathwise Exploration</title>
-      <link>https://markvdw.github.io/publication/folch-2022-snake/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/folch-2022-snake/</guid>
       <description></description>
     </item>
     
