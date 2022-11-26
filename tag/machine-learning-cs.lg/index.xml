@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Machine Learning (cs.LG)&#34; | Mark van der Wilk</title>
+    <link>https://markvdw.github.io/tag/machine-learning-cs.lg/</link>
+      <atom:link href="https://markvdw.github.io/tag/machine-learning-cs.lg/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Machine Learning (cs.LG)&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Machine Learning (cs.LG)&#34;</title>
+      <link>https://markvdw.github.io/tag/machine-learning-cs.lg/</link>
+    </image>
+    
+    <item>
+      <title>Numerically Stable Sparse Gaussian Processes via Minimum Separation using Cover Trees</title>
+      <link>https://markvdw.github.io/publication/terenin-2022-numerically/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/terenin-2022-numerically/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
