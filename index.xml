@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Actually Sparse Variational Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/cunningham-2022-actuallysparse/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/cunningham-2022-actuallysparse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations</title>
       <link>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
@@ -25,6 +33,14 @@
       <link>https://markvdw.github.io/publication/artemev-2022-xla/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/artemev-2022-xla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/ober-2022-recommendations/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ober-2022-recommendations/</guid>
       <description></description>
     </item>
     
@@ -138,17 +154,26 @@
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/research-overview/</guid>
       <description>&lt;h2 id=&#34;list-of-research-interests&#34;&gt;List of Research Interests&lt;/h2&gt;
+&lt;p&gt;Problems:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Bayesian inference and approximations to it (variational, EP, MCMC, Stein, &amp;hellip;).&lt;/li&gt;
-&lt;li&gt;Gaussian process models (deep GPs, GPSSM, GPLVM, &amp;hellip;), practical approximations to them, and their theoretical properties.&lt;/li&gt;
-&lt;li&gt;Bayesian deep learning (inference over weights, using GPs as building blocks, &amp;hellip;).&lt;/li&gt;
-&lt;li&gt;Neural networks / other models with invariance properties (e.g. rotation, scale, or more arbitrary) and learning invariances.&lt;/li&gt;
-&lt;li&gt;Analysis of deep neural networks (infinite limits and GP relations).&lt;/li&gt;
-&lt;li&gt;Model-based reinforcement learning.&lt;/li&gt;
-&lt;li&gt;Differentially private machine learning.&lt;/li&gt;
-&lt;li&gt;Connections between Bayesian inference and generalisation error bounds.&lt;/li&gt;
-&lt;li&gt;Connections between causality and model selection.&lt;/li&gt;
-&lt;li&gt;Applications involving tailored probabilistic models for e.g. Bayesian optimisation.&lt;/li&gt;
+&lt;li&gt;Finding invariance/equivariance, and Geometric Deep Learning&lt;/li&gt;
+&lt;li&gt;Causality, and connections to model selection&lt;/li&gt;
+&lt;li&gt;Out of distribution generalisation&lt;/li&gt;
+&lt;li&gt;Local learning rules&lt;/li&gt;
+&lt;li&gt;Decision making with limited data, and applications&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Solutions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bayesian inference and approximations to it (variational, EP, MCMC, Stein, &amp;hellip;)&lt;/li&gt;
+&lt;li&gt;Bayesian model selection &amp;amp; Neural architecture search&lt;/li&gt;
+&lt;li&gt;Gaussian process models (deep GPs, GPSSM, GPLVM, &amp;hellip;), practical approximations to them, and their theoretical properties&lt;/li&gt;
+&lt;li&gt;Meta-learning&lt;/li&gt;
+&lt;li&gt;Continual learning&lt;/li&gt;
+&lt;li&gt;Bayesian optimisation &amp;amp; experiment design&lt;/li&gt;
+&lt;li&gt;Generative modelling, semi-supervised learning, self-supervised learning&lt;/li&gt;
+&lt;li&gt;Capsule networks&lt;/li&gt;
+&lt;li&gt;Model-based reinforcement learning&lt;/li&gt;
+&lt;li&gt;Connections between Bayesian inference and generalisation error bounds&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;high-level-aims-and-approach&#34;&gt;High-level aims and approach&lt;/h2&gt;
 &lt;p&gt;Our research aims to improve three broad properties of Machine Learning methods:&lt;/p&gt;
@@ -164,6 +189,10 @@
 &lt;p&gt;I&amp;rsquo;m not completely sure what approach I would bet on. I certainly follow developments in meta-learning and large models carefully. If the answer to this was clear, this wouldn&amp;rsquo;t be research. Luckily, there are interesting questions to investigate in both directions.&lt;/p&gt;
 &lt;h2 id=&#34;research-highlights&#34;&gt;Research Highlights&lt;/h2&gt;
 &lt;p&gt;To give a more concrete idea of research we have done, here are some projects and papers roughly grouped together in themes. These projects were done together with collaborators and students, so do look at the papers themselves.&lt;/p&gt;
+&lt;h3 id=&#34;causality--bayesian-model-selection&#34;&gt;Causality &amp;amp; Bayesian Model Selection&lt;/h3&gt;
+&lt;p&gt;This is early work, but I&amp;rsquo;m excited about it. At the NeurIPS 2022 &amp;ldquo;Causal ML for Impact&amp;rdquo; workshop we presented our paper on &lt;a href=&#34;https://openreview.net/forum?id=k0DJZXMSgH4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Causal Discovery using Marginal Likelihood&lt;/a&gt;. This fits within our theme of using Bayesian model selection for many things. We straightforwardly use Bayesian model selection to discover causal direction in bivariate datsets. Simple principles lead to a method that performs very well compared to existing methods.&lt;/p&gt;
+&lt;p&gt;The appeal of investigating relationships between Bayesian inference and causality is that it may provide a guide to developing methods in more complex scenarios, like causal representation learning.&lt;/p&gt;
+&lt;p&gt;(Do get in touch if you want to discuss thoughts on this work, any possible issues, or suggested benchmarks.)&lt;/p&gt;
 &lt;h3 id=&#34;learning-invariances&#34;&gt;Learning invariances&lt;/h3&gt;
 &lt;p&gt;Invariance and equivariance are very common inductive biases, with the ubiquitous convolutional layer being the most common example. When designing architectures, humans currently choose how many convolutional layers to use, together with parameters like filter size. Often these choices are made with a laborious trial-and-error procedure (cross-validation). To make the number of choices even larger, other types of convolutional layers have been developed in recent years, which help generalisation across different scales and rotations. The optimal inductive bias varies by problem and dataset, so it would be nice if we had an automatic procedure for determining these.&lt;/p&gt;
 &lt;p&gt;We are developing methods that allow weights and architecture to be learned &lt;em&gt;at the same time&lt;/em&gt;, by optimising a single objective function. In our paper &lt;a href=&#34;https://markvdw.github.io/publication/vdw-2018-invgp/&#34;&gt;&lt;em&gt;Learning Invariances using the Marginal Likelihood&lt;/em&gt;&lt;/a&gt; we expressed invariances as data augmentations, and learned the correct data augmentation parameters through backprop with a single optimisation run. The objective function was derived from the principles of Bayesian model selection&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
@@ -173,15 +202,17 @@
   &lt;figcaption&gt;Figure: Samples describing the &lt;i&gt;learned invariance&lt;/i&gt; for some MNIST digits (squares). The method becomes insensitive to local rotations, shears, and rotations.&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Overall, this procedure is a lot more convenient than training a model many times in a cross-validated grid search over the data augmentation parameters. What really shows that invariances are truly learned here, is that if you apply the &lt;em&gt;same&lt;/em&gt; method to a dataset with different characteristics, a different invariance is learned. The same exact method that worked well on MNIST would learn almost full rotational invariance for rotated MNIST (see paper for results). Following the normal procedure, the cross-validated grid search would have to be performed again!&lt;/p&gt;
-&lt;p&gt;The method above was based on Gaussian processes, and we since have been working on neural network equivalents which learn different kinds of equivariant tied weights. &lt;a href=&#34;https://markvdw.github.io/publication/vdo-2021-invariant-weights/&#34;&gt;Our workshop paper&lt;/a&gt; provided some nice GIFs of different kinds of convolutional structure being learned together with weights (see figure below).&lt;/p&gt;
+&lt;p&gt;The method above was based on Gaussian processes, and we since have been working on neural network equivalents which learn different kinds of equivariant tied weights. &lt;a href=&#34;https://markvdw.github.io/publication/ouderaa-2022-learning/&#34;&gt;Our 2022 UAI paper&lt;/a&gt; provided some nice GIFs of different kinds of convolutional structure being learned together with weights (see figure below).&lt;/p&gt;
 &lt;figure&gt;
   &lt;img src=&#34;https://markvdw.github.io/filters-gif.gif&#34; alt=&#34;my alt text&#34;/&gt;
-  &lt;figcaption&gt;Figure: Learning rotationally equivariant filter structure starting from full connectivity. Note how the rotation of the filters increases as it learns the equivariant structure. Work in progress that is currently only available for shallow NNs.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Figure: Learning rotationally equivariant filter structure starting from full connectivity. Note how the rotation of the filters increases as it learns the equivariant structure.&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;p&gt;What is particularly exciting is that we have been making steady progress towards making this work in deep neural networks. Approximations to the marginal likelihood that only considered the last layer were &lt;a href=&#34;https://markvdw.github.io/publication/schwoebel-2022-layer/&#34;&gt;partially successful&lt;/a&gt;, while modifications of full-network Laplace approximations actually &lt;a href=&#34;https://markvdw.github.io/publication/immerouderaa-2022-deepinv/&#34;&gt;worked for ResNets&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;What are the limitations?&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Currently it only works really robustly on shallow models (although we have had &lt;a href=&#34;https://markvdw.github.io/publication/schwoebel-2021-layer/&#34;&gt;partial progress in deep models&lt;/a&gt;).&lt;/li&gt;
+&lt;li&gt;The current method is still a bit cumbersome. Our goal is to make model selection a universally applicable tool that makes hyperparameter tuning as easy as learning weights.&lt;/li&gt;
 &lt;li&gt;You need to specify a solution space of invariances, from which the correct invariance is picked. All machine learning methods need to parameterise their solution space, but so far we have only parameterised simple ones like the space of distributions on affine transformations, and local deformations.&lt;/li&gt;
+&lt;li&gt;We would like to be able to learn all hyperparameters that currently need to be adjusted in neural networks (e.g. how many neurons to use, or other architectural properties).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There is plenty of more to do!&lt;/p&gt;
 &lt;h3 id=&#34;accurate-and-automatic-gaussian-process-approximations&#34;&gt;Accurate and Automatic Gaussian process approximations&lt;/h3&gt;
