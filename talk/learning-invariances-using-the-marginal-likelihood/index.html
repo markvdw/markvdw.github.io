@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function." />
+  <meta name="description" content="A tutorial on Bayesian model selection, and how it can be used to learn invariances using backprop." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" />
@@ -335,7 +335,7 @@
   <meta property="og:site_name" content="Mark van der Wilk" />
   <meta property="og:url" content="https://markvdw.github.io/talk/learning-invariances-using-the-marginal-likelihood/" />
   <meta property="og:title" content="Learning Invariances using the Marginal Likelihood | Mark van der Wilk" />
-  <meta property="og:description" content="Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function." /><meta property="og:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" />
+  <meta property="og:description" content="A tutorial on Bayesian model selection, and how it can be used to learn invariances using backprop." /><meta property="og:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" />
     <meta property="twitter:image" content="https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -344,7 +344,7 @@
         content="2017-01-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2020-02-17T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-06-08T00:00:00&#43;00:00">
   
 
   
@@ -369,11 +369,11 @@
   
   "location": {
     "@type": "Place",
-    "name": "EURECOM, Sophia Antipolis, France"
+    "name": "Deep Learning Classics \u0026 Trends Reading Group (Online)"
   },
   
   
-  "startDate": "2020-02-17T00:00:00Z",
+  "startDate": "2020-06-08T00:00:00Z",
   
   
   "performer": {
@@ -381,7 +381,7 @@
     "name": "Mark van der Wilk"
   },
   
-  "description": "Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function."
+  "description": "A tutorial on Bayesian model selection, and how it can be used to learn invariances using backprop."
 }
 </script>
 
@@ -399,7 +399,7 @@
 </head>
 
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4c18add12979cbf05e72e53c41dc8460" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="1fcb602208c988fc924a4e59a3a03aff" >
 
   
   
@@ -822,12 +822,20 @@
   
     
   
-<a class="btn btn-outline-primary btn-page-header" href="https://www.dropbox.com/sh/c90tjq3qkbbqwju/AABeLAfsLPKIU073-ShWN-v5a?dl=0&amp;fbclid=IwAR01IG5Jj9qwFduRaZt1x1yCcT5V4b5fRx0JP0eQIQq5Uh0g0a53UrgexRg&amp;preview=mark.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header" href="https://rosanneliu.com/dlctfs/dlct_200608.pdf" target="_blank" rel="noopener">
   Slides
 </a>
 
 
 
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://drive.google.com/file/d/10NzfNXz-gp-0hQ_nHfmuKx0qA_t1I83A/view?usp=sharing" target="_blank" rel="noopener">
+  Video
+</a>
+
 
 
 
@@ -842,7 +850,7 @@
   
     
   
-  <a class="btn btn-outline-primary btn-page-header" href="https://ismseminar.github.io/fimi2020/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary btn-page-header" href="https://rosanneliu.com/dlct/" target="_blank" rel="noopener">
     
     Event
   </a>
@@ -860,7 +868,7 @@
 
     
       <h3>Abstract</h3>
-      <p class="pub-abstract">Kernels provide a powerful way of encoding assumptions about the class of functions that should be used for a particular learning problem. As a consequence, the generalisation ability of kernel methods depends strongly on the choice of kernel. In this work, we use invariances to create kernels with sophisticated inductive biases. Crucially, we show how the marginal likelihood from the Gaussian process framework can be used to learn an appropriate invariance through backpropagation for a given dataset. I will also discuss some technical advances that were made along the way, notably the ability to learn using only unbiased evaluations of the kernel function.</p>
+      <p class="pub-abstract">To improve generalisation in supervised learning, it is common to encourage invariance in the solution, i.e. keeping the output relatively constant to irrelevant transformations of the input. Many techniques can be seen as introducing invariance, such as data augmentation, convolutional structure, or more general group structure. But how do we learn what invariances should be used for a dataset? In this talk, we will discuss why the usual training loss is not the right objective function. We instead use the marginal likelihood as suggested by Bayesian inference, and develop a procedure which learns a useful invariance through gradient-based optimisation. Our model learns to be invariant to perturbations that are commonly hand-crafted in data augmentation, and learns very different perturbations depending on the dataset. We finish by speculating on how procedures like these can help automate the creation of network architectures.</p>
     
 
     <div class="row">
@@ -869,7 +877,7 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Date</div>
           <div class="col-12 col-md-9">
-            Feb 17, 2020
+            Jun 8, 2020 12:00 AM
           </div>
         </div>
       </div>
@@ -884,9 +892,9 @@
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Event</div>
           <div class="col-12 col-md-9">
-            <a href="https://ismseminar.github.io/fimi2020/" target="_blank" rel="noopener">
-            Workshop on Functional Inference and Machine Intelligence
-            </a>
+            
+            Deep Learning Classics &amp; Trends
+            
           </div>
         </div>
       </div>
@@ -901,7 +909,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Location</div>
-          <div class="col-12 col-md-9">EURECOM, Sophia Antipolis, France</div>
+          <div class="col-12 col-md-9">Deep Learning Classics &amp; Trends Reading Group (Online)</div>
           
         </div>
       </div>
