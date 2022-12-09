@@ -5,12 +5,20 @@
     <link>https://markvdw.github.io/</link>
       <atom:link href="https://markvdw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark van der Wilk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 08 Dec 2022 12:20:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
+    
+    <item>
+      <title>OccaMLab at NeurIPS: GPs, Equivariance, Causality</title>
+      <link>https://markvdw.github.io/talk/occamlab-at-neurips-gps-equivariance-causality/</link>
+      <pubDate>Thu, 08 Dec 2022 12:20:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/occamlab-at-neurips-gps-equivariance-causality/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Actually Sparse Variational Gaussian Processes</title>
