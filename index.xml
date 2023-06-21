@@ -5,12 +5,20 @@
     <link>https://markvdw.github.io/</link>
       <atom:link href="https://markvdw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark van der Wilk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 08 Dec 2022 12:20:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 02 Jun 2023 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Causal Discovery through Bayesian Model Selection</title>
+      <link>https://markvdw.github.io/talk/causal-discovery-through-bayesian-model-selection/</link>
+      <pubDate>Fri, 02 Jun 2023 12:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/causal-discovery-through-bayesian-model-selection/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OccaMLab at NeurIPS: GPs, Equivariance, Causality</title>
@@ -156,8 +164,12 @@
       <description>&lt;h2 id=&#34;courses&#34;&gt;Courses&lt;/h2&gt;
 &lt;p&gt;At Imperial College London:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Probabilistic Inference (Spring 2020, Spring 2021, Spring 2022)&lt;/li&gt;
-&lt;li&gt;Mathematics for Machine Learning (half) (Autumn 2020, Autumn 2022)&lt;/li&gt;
+&lt;li&gt;Probabilistic Inference (Spring 2020 - Current)
+4th year UG, MSc, &lt;a href=&#34;https://github.com/markvdw/probinf-spring-2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mathematics for Machine Learning (half) (Autumn 2020 - Current)
+4th year UG, MSc&lt;/li&gt;
+&lt;li&gt;Gaussian Processes &amp;amp; Infinitely Wide Neural Networks (2021 - Current)
+PhD, for StatML CDT&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;masters-projects-msc--meng&#34;&gt;Master&amp;rsquo;s Projects (MSc / MEng)&lt;/h2&gt;
 &lt;p&gt;I run a variety of master&amp;rsquo;s projects each year for students who are already enrolled in a course at Imperial. I generally don&amp;rsquo;t advise master&amp;rsquo;s projects or internships from other institutions. To see the projects I offer, take a look at the DoC project portal. If you are assigned to one of my projects, do look at my &lt;a href=&#34;https://hackmd.io/@OccamLab/BJ-kzN32t&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;guidelines for master&amp;rsquo;s projects&lt;/a&gt;.&lt;/p&gt;
