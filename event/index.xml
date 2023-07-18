@@ -5,12 +5,20 @@
     <link>https://markvdw.github.io/event/</link>
       <atom:link href="https://markvdw.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Fri, 02 Jun 2023 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 18 Jul 2023 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://markvdw.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Meaningful Metrics for Probabilistic Predictions</title>
+      <link>https://markvdw.github.io/talk/meaningful-metrics-for-probabilistic-predictions/</link>
+      <pubDate>Tue, 18 Jul 2023 09:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/meaningful-metrics-for-probabilistic-predictions/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Causal Discovery through Bayesian Model Selection</title>
