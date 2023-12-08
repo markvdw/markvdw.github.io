@@ -7,7 +7,7 @@
     <description>Mark van der Wilk</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Tue, 18 Jul 2023 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
@@ -33,14 +33,6 @@
       <link>https://markvdw.github.io/talk/occamlab-at-neurips-gps-equivariance-causality/</link>
       <pubDate>Thu, 08 Dec 2022 12:20:00 +0000</pubDate>
       <guid>https://markvdw.github.io/talk/occamlab-at-neurips-gps-equivariance-causality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Actually Sparse Variational Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/cunningham-2022-actuallysparse/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/cunningham-2022-actuallysparse/</guid>
       <description></description>
     </item>
     
@@ -273,17 +265,17 @@ PhD, for StatML CDT&lt;/li&gt;
 &lt;h3 id=&#34;capsules&#34;&gt;Capsules&lt;/h3&gt;
 &lt;p&gt;I do believe that good model structure is the most important property for good performance. When I first heard Geoff Hinton&amp;rsquo;s talk about capsule networks, I was very intrigued by the inductive bias specified by the network alone. In addition, there seems to be a lot of probabilistic inspiration behind the routing algorithm.&lt;/p&gt;
 &lt;p&gt;Together with Lewis Smith et al, we attempted to make a fully &lt;a href=&#34;https://markvdw.github.io/publication/smith-2020-capsules/&#34;&gt;probabilistic formulation&lt;/a&gt; of capsule networks, which would allow routing to be derived directly from inference. Although our practical success was limited, the project did provide a lot of insight. I do still believe in the idea behind capsules and their link to probabilistic inference. Hopefully this won&amp;rsquo;t be our last project on the topic.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
 &lt;p&gt;See &lt;a href=&#34;http://www.inference.org.uk/mackay/itila/book.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;David MacKay&amp;rsquo;s excellent textbook&lt;/a&gt; for a good intro.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;Which is the case in many industrial and engineering problems.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/section&gt;
+&lt;/div&gt;
 </description>
     </item>
     
@@ -300,14 +292,6 @@ PhD, for StatML CDT&lt;/li&gt;
       <link>https://markvdw.github.io/publication/dhir-2022-causal/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dhir-2022-causal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Combining Multi-Fidelity Modelling and Asynchronous Batch Bayesian Optimization</title>
-      <link>https://markvdw.github.io/publication/folch-2022-combining/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/folch-2022-combining/</guid>
       <description></description>
     </item>
     
@@ -735,15 +719,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;

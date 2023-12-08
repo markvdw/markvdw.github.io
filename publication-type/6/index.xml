@@ -7,18 +7,10 @@
     <description>6</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_2.png</url>
+      <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
       <link>https://markvdw.github.io/publication-type/6/</link>
     </image>
-    
-    <item>
-      <title>Actually Sparse Variational Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/cunningham-2022-actuallysparse/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/cunningham-2022-actuallysparse/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
