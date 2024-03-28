@@ -3,12 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://markvdw.github.io/</loc>
-    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://markvdw.github.io/talk/meaningful-metrics-for-probabilistic-predictions/</loc>
-    <lastmod>2023-07-18T09:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/event/</loc>
+    <lastmod>2024-03-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/variational-transductive-learning/</loc>
+    <lastmod>2024-03-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/meaningful-metrics-for-probabilistic-predictions/</loc>
     <lastmod>2023-07-18T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/talk/causal-discovery-through-bayesian-model-selection/</loc>
