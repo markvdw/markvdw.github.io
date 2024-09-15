@@ -5,12 +5,111 @@
     <link>https://markvdw.github.io/publication/</link>
       <atom:link href="https://markvdw.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://markvdw.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Time-varying functional connectivity as Wishart processes</title>
+      <link>https://markvdw.github.io/publication/kampman-2024-timevarying/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/kampman-2024-timevarying/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bivariate Causal Discovery using Bayesian Model Selection</title>
+      <link>https://markvdw.github.io/publication/dhir-2024-bivariate/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2024-bivariate/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning in Deep Factor Graphs with Gaussian Belief Propagation</title>
+      <link>https://markvdw.github.io/publication/nabarro-2024-learning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/nabarro-2024-learning/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Numerically Stable Sparse Gaussian Processes via Minimum Separation using Cover Trees</title>
+      <link>https://markvdw.github.io/publication/terenin-2024-numerically/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/terenin-2024-numerically/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks</title>
+      <link>https://markvdw.github.io/publication/gelberg-2024-variational/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/gelberg-2024-variational/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Actually Sparse Variational Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/cunningham-2023-actuallysparse/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/cunningham-2023-actuallysparse/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combining multi-fidelity modelling and asynchronous batch Bayesian Optimization</title>
+      <link>https://markvdw.github.io/publication/folch-2023-combining/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2023-combining/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Competitive Amplification Networks enable molecular pattern recognition with PCR</title>
+      <link>https://markvdw.github.io/publication/goertz-2023-can/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/goertz-2023-can/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current Methods for Drug Property Prediction in the Real World</title>
+      <link>https://markvdw.github.io/publication/green-2023-current/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/green-2023-current/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Layer-wise Equivariances Automatically using Gradients</title>
+      <link>https://markvdw.github.io/publication/vanderouderaa-2023-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vanderouderaa-2023-learning/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels</title>
+      <link>https://markvdw.github.io/publication/immer-2023-stochmarglik/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/immer-2023-stochmarglik/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations</title>
@@ -113,14 +212,6 @@
       <link>https://markvdw.github.io/publication/schwoebel-2022-layer/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/schwoebel-2022-layer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Numerically Stable Sparse Gaussian Processes via Minimum Separation using Cover Trees</title>
-      <link>https://markvdw.github.io/publication/terenin-2022-numerically/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/terenin-2022-numerically/</guid>
       <description></description>
     </item>
     

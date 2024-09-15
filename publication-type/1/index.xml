@@ -5,12 +5,66 @@
     <link>https://markvdw.github.io/publication-type/1/</link>
       <atom:link href="https://markvdw.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://markvdw.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Bivariate Causal Discovery using Bayesian Model Selection</title>
+      <link>https://markvdw.github.io/publication/dhir-2024-bivariate/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2024-bivariate/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning in Deep Factor Graphs with Gaussian Belief Propagation</title>
+      <link>https://markvdw.github.io/publication/nabarro-2024-learning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/nabarro-2024-learning/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks</title>
+      <link>https://markvdw.github.io/publication/gelberg-2024-variational/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/gelberg-2024-variational/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Actually Sparse Variational Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/cunningham-2023-actuallysparse/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/cunningham-2023-actuallysparse/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning Layer-wise Equivariances Automatically using Gradients</title>
+      <link>https://markvdw.github.io/publication/vanderouderaa-2023-learning/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vanderouderaa-2023-learning/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels</title>
+      <link>https://markvdw.github.io/publication/immer-2023-stochmarglik/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/immer-2023-stochmarglik/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations</title>
