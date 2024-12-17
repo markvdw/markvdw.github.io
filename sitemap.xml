@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://markvdw.github.io/talk/bivariate-causal-discovery-using-bayesian-model-selection/</loc>
-    <lastmod>2024-07-03T12:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://markvdw.github.io/</loc>
-    <lastmod>2024-07-03T12:00:00+00:00</lastmod>
+    <lastmod>2024-12-14T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/open-problems-in-gaussian-process-approximation-and-benchmarking/</loc>
+    <lastmod>2024-12-14T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/event/</loc>
+    <lastmod>2024-12-14T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://markvdw.github.io/talk/bivariate-causal-discovery-using-bayesian-model-selection/</loc>
     <lastmod>2024-07-03T12:00:00+00:00</lastmod>
   </url><url>
     <loc>https://markvdw.github.io/publication-type/2/</loc>
