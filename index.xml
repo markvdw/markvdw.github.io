@@ -5,12 +5,20 @@
     <link>https://markvdw.github.io/</link>
       <atom:link href="https://markvdw.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark van der Wilk</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 14 Dec 2024 12:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 25 Jun 2025 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>Mark van der Wilk</title>
       <link>https://markvdw.github.io/</link>
     </image>
+    
+    <item>
+      <title>Adapting Neuron Count During Training: A Bayesian Nonparametric View</title>
+      <link>https://markvdw.github.io/talk/adapting-neuron-count-during-training-a-bayesian-nonparametric-view/</link>
+      <pubDate>Wed, 25 Jun 2025 12:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/talk/adapting-neuron-count-during-training-a-bayesian-nonparametric-view/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Open Problems in Gaussian Process Approximation and Benchmarking</title>
