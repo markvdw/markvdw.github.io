@@ -5,7 +5,7 @@
     <link>https://markvdw.github.io/publication-type/6/</link>
       <atom:link href="https://markvdw.github.io/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
     <description>6</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>6</title>
@@ -13,35 +13,48 @@
     </image>
     
     <item>
-      <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/ober-2022-recommendations/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ober-2022-recommendations/</guid>
-      <description></description>
+      <title>Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning</title>
+      <link>https://markvdw.github.io/publication/dhir-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2025-estimating/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Sparse Convolutions on Lie Groups</title>
-      <link>https://markvdw.github.io/publication/ouderaa-2022-sparse/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ouderaa-2022-sparse/</guid>
-      <description></description>
+      <title>SynDaCaTE: A Synthetic Dataset For Evaluating Part-Whole Hierarchical Inference</title>
+      <link>https://markvdw.github.io/publication/levi-2025-syndacate/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/levi-2025-syndacate/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/vdw-2022-inv/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/vdw-2022-inv/</guid>
-      <description></description>
+      <title>Inverse-Free Sparse Variational Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/cortinovis-2024-inversefree/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/cortinovis-2024-inversefree/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Matrix Inversion free variational inference in Conditional Student&#39;s T Processes</title>
-      <link>https://markvdw.github.io/publication/popescu-2022-tproc/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/popescu-2022-tproc/</guid>
-      <description></description>
+      <title>Variational Inference Failures Under Model Symmetries: Permutation Invariant Posteriors for Bayesian Neural Networks</title>
+      <link>https://markvdw.github.io/publication/gelberg-2024-variational/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/gelberg-2024-variational/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Practical Path-based Bayesian Optimization</title>
+      <link>https://markvdw.github.io/publication/folch-2023-practical/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2023-practical/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +62,44 @@
       <link>https://markvdw.github.io/publication/dhir-2022-causal/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dhir-2022-causal/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/vdw-2022-inv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2022-inv/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matrix Inversion free variational inference in Conditional Student&#39;s T Processes</title>
+      <link>https://markvdw.github.io/publication/popescu-2022-tproc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/popescu-2022-tproc/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/ober-2022-recommendations/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ober-2022-recommendations/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse Convolutions on Lie Groups</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2022-sparse/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2022-sparse/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +107,17 @@
       <link>https://markvdw.github.io/publication/burt-2020-understanding/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/burt-2020-understanding/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of Experiments for Verifying Biomolecular Networks</title>
+      <link>https://markvdw.github.io/publication/sedgwick-2020-design/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/sedgwick-2020-design/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -65,7 +125,8 @@
       <link>https://markvdw.github.io/publication/ialongo-2017-closed/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/ialongo-2017-closed/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -73,7 +134,8 @@
       <link>https://markvdw.github.io/publication/mcallister-2016-exploration/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/mcallister-2016-exploration/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -81,7 +143,8 @@
       <link>https://markvdw.github.io/publication/vdw-2014-wplvm/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2014-wplvm/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

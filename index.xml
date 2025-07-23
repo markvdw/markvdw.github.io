@@ -21,6 +21,78 @@
     </item>
     
     <item>
+      <title>A Meta-Learning Approach to Bayesian Causal Discovery</title>
+      <link>https://markvdw.github.io/publication/dhir-2025-a/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2025-a/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adjusting Model Size in Continual Gaussian Processes: How Big is Big Enough?</title>
+      <link>https://markvdw.github.io/publication/pescador-barrios-2025-adjusting/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/pescador-barrios-2025-adjusting/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Continuous Bayesian Model Selection for Multivariate Causal Discovery</title>
+      <link>https://markvdw.github.io/publication/dhir-2025-continuous/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2025-continuous/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning</title>
+      <link>https://markvdw.github.io/publication/dhir-2025-estimating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2025-estimating/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rethinking Aleatoric and Epistemic Uncertainty</title>
+      <link>https://markvdw.github.io/publication/smith-2025-rethinking/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/smith-2025-rethinking/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SynDaCaTE: A Synthetic Dataset For Evaluating Part-Whole Hierarchical Inference</title>
+      <link>https://markvdw.github.io/publication/levi-2025-syndacate/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/levi-2025-syndacate/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transfer learning Bayesian optimization for competitor DNA molecule design for use in diagnostic assays</title>
+      <link>https://markvdw.github.io/publication/sedgwick-2025-transfer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/sedgwick-2025-transfer/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turbulence: Systematically and automatically testing instruction-tuned large language models for code</title>
+      <link>https://markvdw.github.io/publication/honarvar-2025-turbulence/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/honarvar-2025-turbulence/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Open Problems in Gaussian Process Approximation and Benchmarking</title>
       <link>https://markvdw.github.io/talk/open-problems-in-gaussian-process-approximation-and-benchmarking/</link>
       <pubDate>Sat, 14 Dec 2024 12:00:00 +0000</pubDate>
@@ -63,6 +135,15 @@
     </item>
     
     <item>
+      <title>Inverse-Free Sparse Variational Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/cortinovis-2024-inversefree/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/cortinovis-2024-inversefree/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning in Deep Factor Graphs with Gaussian Belief Propagation</title>
       <link>https://markvdw.github.io/publication/nabarro-2024-learning/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -72,10 +153,28 @@
     </item>
     
     <item>
+      <title>Noether&#39; s Razor: Learning Conserved Quantities</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2024-noethersrazor/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2024-noethersrazor/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Numerically Stable Sparse Gaussian Processes via Minimum Separation using Cover Trees</title>
       <link>https://markvdw.github.io/publication/terenin-2024-numerically/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/terenin-2024-numerically/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transition Constrained Bayesian Optimization via Markov Decision Processes</title>
+      <link>https://markvdw.github.io/publication/folch-2024-transition/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2024-transition/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -151,6 +250,15 @@
     </item>
     
     <item>
+      <title>Practical Path-based Bayesian Optimization</title>
+      <link>https://markvdw.github.io/publication/folch-2023-practical/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2023-practical/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Stochastic Marginal Likelihood Gradients using Neural Tangent Kernels</title>
       <link>https://markvdw.github.io/publication/immer-2023-stochmarglik/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -164,70 +272,6 @@
       <link>https://markvdw.github.io/talk/occamlab-at-neurips-gps-equivariance-causality/</link>
       <pubDate>Thu, 08 Dec 2022 12:20:00 +0000</pubDate>
       <guid>https://markvdw.github.io/talk/occamlab-at-neurips-gps-equivariance-causality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations</title>
-      <link>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory Safe Computations with XLA Compiler</title>
-      <link>https://markvdw.github.io/publication/artemev-2022-xla/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/artemev-2022-xla/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/ober-2022-recommendations/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ober-2022-recommendations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relaxing Equivariance Constraints with Non-stationary Continuous Filters</title>
-      <link>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SnAKe: Bayesian Optimization with Pathwise Exploration</title>
-      <link>https://markvdw.github.io/publication/folch-2022-snake/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/folch-2022-snake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparse Convolutions on Lie Groups</title>
-      <link>https://markvdw.github.io/publication/ouderaa-2022-sparse/</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ouderaa-2022-sparse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
-      <link>https://markvdw.github.io/publication/nabarro-2022-data/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/nabarro-2022-data/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning invariant weights in neural networks</title>
-      <link>https://markvdw.github.io/publication/ouderaa-2022-learning/</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ouderaa-2022-learning/</guid>
       <description></description>
     </item>
     
@@ -260,22 +304,6 @@
       <link>https://markvdw.github.io/talk/inductive-biases-input-densities-and-predictive-uncertainty/</link>
       <pubDate>Wed, 09 Mar 2022 16:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/talk/inductive-biases-input-densities-and-predictive-uncertainty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/vdw-2022-inv/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/vdw-2022-inv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matrix Inversion free variational inference in Conditional Student&#39;s T Processes</title>
-      <link>https://markvdw.github.io/publication/popescu-2022-tproc/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/popescu-2022-tproc/</guid>
       <description></description>
     </item>
     
@@ -422,7 +450,8 @@ PhD, for StatML CDT&lt;/li&gt;
       <link>https://markvdw.github.io/publication/fortuin-2022-bayesian/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/fortuin-2022-bayesian/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -430,7 +459,35 @@ PhD, for StatML CDT&lt;/li&gt;
       <link>https://markvdw.github.io/publication/dhir-2022-causal/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dhir-2022-causal/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data augmentation in Bayesian neural networks and the cold posterior effect</title>
+      <link>https://markvdw.github.io/publication/nabarro-2022-data/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/nabarro-2022-data/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improved Inverse-Free Variational Bounds for Sparse Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/vdw-2022-inv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/vdw-2022-inv/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invariance Learning in Deep Neural Networks with Differentiable Laplace Approximations</title>
+      <link>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/immerouderaa-2022-deepinv/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -438,7 +495,71 @@ PhD, for StatML CDT&lt;/li&gt;
       <link>https://markvdw.github.io/publication/schwoebel-2022-layer/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/schwoebel-2022-layer/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning invariant weights in neural networks</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2022-learning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2022-learning/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matrix Inversion free variational inference in Conditional Student&#39;s T Processes</title>
+      <link>https://markvdw.github.io/publication/popescu-2022-tproc/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/popescu-2022-tproc/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Memory Safe Computations with XLA Compiler</title>
+      <link>https://markvdw.github.io/publication/artemev-2022-xla/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/artemev-2022-xla/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/ober-2022-recommendations/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ober-2022-recommendations/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relaxing Equivariance Constraints with Non-stationary Continuous Filters</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2022-relaxing/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SnAKe: Bayesian Optimization with Pathwise Exploration</title>
+      <link>https://markvdw.github.io/publication/folch-2022-snake/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/folch-2022-snake/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sparse Convolutions on Lie Groups</title>
+      <link>https://markvdw.github.io/publication/ouderaa-2022-sparse/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ouderaa-2022-sparse/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -454,30 +575,6 @@ PhD, for StatML CDT&lt;/li&gt;
       <link>https://markvdw.github.io/talk/data-augmentation-in-infinitely-wide-neural-networks/</link>
       <pubDate>Tue, 21 Sep 2021 19:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/talk/data-augmentation-in-infinitely-wide-neural-networks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Correlated weights in infinite limits of deep convolutional neural networks</title>
-      <link>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The promises and pitfalls of deep kernel learning</title>
-      <link>https://markvdw.github.io/publication/ober-2021-promises/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ober-2021-promises/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tighter Bounds on the Log Marginal Likelihood of Gaussian Process Regression Using Conjugate Gradients</title>
-      <link>https://markvdw.github.io/publication/artemevburt-2021-cglb/</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/artemevburt-2021-cglb/</guid>
       <description></description>
     </item>
     
@@ -534,7 +631,17 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/burt-2021-barely/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/burt-2021-barely/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Correlated weights in infinite limits of deep convolutional neural networks</title>
+      <link>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/garriga-alonso-2021-correlated/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -542,7 +649,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/dutordoir-2021-relu/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dutordoir-2021-relu/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -550,7 +658,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dutordoir-2021-gpflux/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -558,7 +667,26 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/ru-2021-speed/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/ru-2021-speed/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The promises and pitfalls of deep kernel learning</title>
+      <link>https://markvdw.github.io/publication/ober-2021-promises/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ober-2021-promises/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tighter Bounds on the Log Marginal Likelihood of Gaussian Process Regression Using Conjugate Gradients</title>
+      <link>https://markvdw.github.io/publication/artemevburt-2021-cglb/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/artemevburt-2021-cglb/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -566,7 +694,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/burt-2020-understanding/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/burt-2020-understanding/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -655,14 +784,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Bayesian Image Classification with Deep Convolutional Gaussian Processes</title>
-      <link>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Variational Gaussian Processes without Matrix Inverses</title>
       <link>https://markvdw.github.io/talk/variational-gaussian-processes-without-matrix-inverses/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
@@ -691,7 +812,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/lyle-2020-trainingspeed/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/lyle-2020-trainingspeed/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -699,7 +821,17 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/vdw-2020-framework/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2020-framework/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Image Classification with Deep Convolutional Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dutordoir-2020-dcgp/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -707,7 +839,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/smith-2020-capsules/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/smith-2020-capsules/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -715,7 +848,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/burt-2020-convergence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/burt-2020-convergence/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -723,7 +857,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/sedgwick-2020-design/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/sedgwick-2020-design/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -731,7 +866,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/lyle-2020-benefits/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/lyle-2020-benefits/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -739,7 +875,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/monteiro-2020-correlated/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/monteiro-2020-correlated/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -747,7 +884,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/vdw-2020-inv/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2020-inv/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -755,7 +893,8 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/publication/burt-2020-vof/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/burt-2020-vof/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -779,22 +918,6 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://markvdw.github.io/talk/invariances-in-gaussian-processes-and-how-to-learn-them/</link>
       <pubDate>Thu, 12 Sep 2019 13:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/talk/invariances-in-gaussian-processes-and-how-to-learn-them/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models</title>
-      <link>https://markvdw.github.io/publication/ialongo-2019-overcoming/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/ialongo-2019-overcoming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rates of Convergence for Sparse Variational Gaussian Process Regression</title>
-      <link>https://markvdw.github.io/publication/burt-2019-rates/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://markvdw.github.io/publication/burt-2019-rates/</guid>
       <description></description>
     </item>
     
@@ -932,7 +1055,26 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/tran-2019-layers/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/tran-2019-layers/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models</title>
+      <link>https://markvdw.github.io/publication/ialongo-2019-overcoming/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ialongo-2019-overcoming/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rates of Convergence for Sparse Variational Gaussian Process Regression</title>
+      <link>https://markvdw.github.io/publication/burt-2019-rates/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/burt-2019-rates/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -940,7 +1082,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/heaukulani-2019-wishart/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/heaukulani-2019-wishart/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -948,7 +1091,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/vdw-2019-sparse/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2019-sparse/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -964,7 +1108,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/vdw-2018-invgp/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2018-invgp/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -980,7 +1125,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/ialongo-2017-closed/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/ialongo-2017-closed/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -988,7 +1134,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/mcallister-2017-concrete/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/mcallister-2017-concrete/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -996,7 +1143,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/vdw-2017-convgp/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2017-convgp/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1004,7 +1152,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/gpflow/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/gpflow/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1025,7 +1174,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/mcallister-2016-exploration/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/mcallister-2016-exploration/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1033,7 +1183,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/bauer-2016-understanding/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/bauer-2016-understanding/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1041,7 +1192,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/gal-2014-parallel/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/gal-2014-parallel/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1049,7 +1201,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/vdw-2014-wplvm/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/vdw-2014-wplvm/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -1057,7 +1210,8 @@ $$&lt;/p&gt;
       <link>https://markvdw.github.io/publication/galvdw-2014-tutorial/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/galvdw-2014-tutorial/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>

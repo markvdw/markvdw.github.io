@@ -5,12 +5,21 @@
     <link>https://markvdw.github.io/publication-type/2/</link>
       <atom:link href="https://markvdw.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Sat, 01 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://markvdw.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Transfer learning Bayesian optimization for competitor DNA molecule design for use in diagnostic assays</title>
+      <link>https://markvdw.github.io/publication/sedgwick-2025-transfer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/sedgwick-2025-transfer/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Time-varying functional connectivity as Wishart processes</title>
@@ -40,11 +49,21 @@
     </item>
     
     <item>
+      <title>Competitive Amplification Networks enable molecular pattern recognition with PCR</title>
+      <link>https://markvdw.github.io/publication/goertz-2023-can/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/goertz-2023-can/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Convergence of Sparse Variational Inference in Gaussian Processes Regression</title>
       <link>https://markvdw.github.io/publication/burt-2020-convergence/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/burt-2020-convergence/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -52,7 +71,8 @@
       <link>https://markvdw.github.io/publication/gpflow/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/gpflow/</guid>
-      <description></description>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
