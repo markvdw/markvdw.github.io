@@ -5,12 +5,21 @@
     <link>https://markvdw.github.io/publication-type/2/</link>
       <atom:link href="https://markvdw.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://markvdw.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>On The Scalability Of Forward Gradients, Evolution Strategies, And Control Variates</title>
+      <link>https://markvdw.github.io/publication/levi-2026-on/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/levi-2026-on/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Transfer learning Bayesian optimization for competitor DNA molecule design for use in diagnostic assays</title>

@@ -5,12 +5,48 @@
     <link>https://markvdw.github.io/publication-type/1/</link>
       <atom:link href="https://markvdw.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021</copyright><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://markvdw.github.io/media/icon_hufdd866d90d76849587aac6fbf27da1ac_464_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://markvdw.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>A Distributed Gaussian Process Model for Multi-Robot Mapping</title>
+      <link>https://markvdw.github.io/publication/nabarro-2026/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/nabarro-2026/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse-Free Sparse Variational Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/cortinovis-2026-inversefree/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/cortinovis-2026-inversefree/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The relative value of interventional and observational samples in Bayesian Causal Linear Gaussian Models</title>
+      <link>https://markvdw.github.io/publication/lungu-2026-interventionalvalue/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/lungu-2026-interventionalvalue/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use What You Know: Causal Foundation Models with Partial Graphs</title>
+      <link>https://markvdw.github.io/publication/reuter-2026-use/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/reuter-2026-use/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Meta-Learning Approach to Bayesian Causal Discovery</title>
@@ -35,6 +71,15 @@
       <link>https://markvdw.github.io/publication/dhir-2025-continuous/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/dhir-2025-continuous/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating Interventional Distributions with Uncertain Causal Graphs through Meta-Learning</title>
+      <link>https://markvdw.github.io/publication/dhir-2025-estimatinginterventional/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/dhir-2025-estimatinginterventional/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
@@ -80,6 +125,15 @@
       <link>https://markvdw.github.io/publication/ouderaa-2024-noethersrazor/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://markvdw.github.io/publication/ouderaa-2024-noethersrazor/</guid>
+      <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recommendations for Baselines and Benchmarking Approximate Gaussian Processes</title>
+      <link>https://markvdw.github.io/publication/ober-2024-recommendations/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://markvdw.github.io/publication/ober-2024-recommendations/</guid>
       <description>&lt;p&gt;Add the &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; for the publication here using Markdown formatting.&lt;/p&gt;
 </description>
     </item>
